@@ -1,15 +1,4 @@
 import json
-import requests
-
-USER = 'tde-nico'
-NAME = 'test.md'
-
-COLUMNS = [
-	'Name',
-	'Language',
-	'Frameworks and Libraries',
-]
-
 
 def dump(fname, data):
 	with open(fname, 'w') as f:
@@ -26,37 +15,44 @@ def save(fname, data):
 
 
 
-REPOS = load('test.json')
+
+USER = 'tde-nico'
+FILENAME = 'README.md'
+
+COLUMNS = {
+	'Languages': 'langs',
+	'Frameworks and Libraries': 'frames_and_libs',
+}
+
+
+REPOS = load('repos.json')
 SECTIONS = load('sections.json')
 
 
 
+
+def low(text):
+	return text.lower()
+
+
 def get_repo_info(repo):
 	data = REPOS.get(repo, {})
-
-	langs_data = data.get('langs', None)
-	if langs_data:
-		langs = '<div align="left">\n'
-		for lang in langs_data:
-			langs += f'\t\t\t<img src="languages/{lang}.svg"/>\n'
-		langs += '\t\t</div>'
-	else:
-		langs = '<br>'
-
-	frames_and_libs_data = data.get('frames_and_libs', None)
-	if frames_and_libs_data:
-		frames_and_libs = '<div align="left">\n'
-		for frame_or_lib in frames_and_libs_data:
-			frames_and_libs += f'\t\t\t<img src="frameworks_and_libraries/{frame_or_lib}.svg"/>\n'
-		frames_and_libs += '\t\t</div>'
-	else:
-		frames_and_libs = '<br>'
-
 	info = {
 		'name': repo.replace('_', ' '),
-		'langs': langs,
-		'frames_and_libs': frames_and_libs,
 	}
+
+	for col in COLUMNS:
+		name = COLUMNS[col]
+		content = data.get(name, None)
+		if content:
+			text = '<div align="left">\n'
+			for con in sorted(content, key=low):
+				text += f'\t\t\t<img src="{name}/{con}.svg"/>\n'
+			text += '\t\t</div>'
+		else:
+			text = '<br>'
+		info[name] = text
+	
 	return info
 
 
@@ -65,7 +61,7 @@ def generate_section(name, repos):
 	text = f"<details>\n<summary>{name}</summary>\n<br>\n<table border=3 align=\"center\">\n"
 
 	text += '<tr>'
-	for col in COLUMNS:
+	for col in ['Name'] + list(COLUMNS.keys()):
 		text += f"""
 	<td>
 		{col}
@@ -93,10 +89,10 @@ def main():
 	tree = '# link_tree\n\n'
 
 	for section in sorted(SECTIONS):
-		tree += generate_section(section, sorted(SECTIONS[section]))
+		tree += generate_section(section, sorted(SECTIONS[section], key=low))
 		tree += '\n\n'
 
-	save(NAME, tree)
+	save(FILENAME, tree)
 
 
 
@@ -104,51 +100,3 @@ if __name__ == '__main__':
 	main()
 
 
-
-
-'''
-import os
-import requests
-import json
-import git
-
-
-USERNAME = 'tde-nico'
-FOLDER = '.' # '.' -> local folder
-
-
-def get_repos(username):
-	names = []
-	page_number = 1
-	while page_number <= 100:
-		responce = requests.get(f'https://api.github.com/users/{username}/repos?page={page_number}')
-		page_repos = json.loads(responce.text)
-		if not page_repos:
-			break
-		names += [repo['name'] for repo in page_repos]
-		page_number += 1
-	return names
-
-
-def maintain(username, name):
-	if os.path.exists(name):
-		print(f'[+] pulling {name}')
-		repo = git.cmd.Git(name)
-		repo.pull()
-	else:
-		print(f'[+] cloning {name}')
-		git.Repo.clone_from(f'https://github.com/{username}/{name}', name)
-
-
-def main():
-	if not os.path.exists(FOLDER):
-		os.mkdir(FOLDER)
-	os.chdir(FOLDER)
-	names = get_repos(USERNAME)
-	for name in names:
-		maintain(USERNAME, name)
-
-
-if __name__ == '__main__':
-	main()
-'''
