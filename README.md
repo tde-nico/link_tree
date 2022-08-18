@@ -199,6 +199,12 @@
   </td>
 </tr><tr>
 	<td>
+		<a href="https://github.com/tde-nico/gesture_volume_control">gesture volume control</a>
+	</td><td>
+    Python
+  </td>
+</tr><tr>
+	<td>
 		<a href="https://github.com/tde-nico/Hand_Tracking">hand tracking</a>
 	</td><td>
     Python
