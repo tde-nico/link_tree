@@ -1,0 +1,515 @@
+{
+    "42_common_core": {},
+    "42_Exams": {
+        "langs": [
+            "C"
+        ]
+    },
+    "Born2beroot": {
+        "langs": [
+            "Bash"
+        ]
+    },
+    "CPP": {
+        "langs": [
+            "C++"
+        ]
+    },
+    "cube3d": {
+        "langs": [
+            "C"
+        ]
+    },
+    "DAAB_Piscine": {
+        "langs": [
+            "Python"
+        ]
+    },
+    "ft_containers": {
+        "langs": [
+            "C++"
+        ]
+    },
+    "ft_printf": {
+        "langs": [
+            "C"
+        ]
+    },
+    "get_next_line": {
+        "langs": [
+            "C"
+        ]
+    },
+    "Libft": {
+        "langs": [
+            "C"
+        ]
+    },
+    "minishell": {
+        "langs": [
+            "C"
+        ]
+    },
+    "minitalk": {
+        "langs": [
+            "C"
+        ]
+    },
+    "net_practice": {},
+    "philosophers": {
+        "langs": [
+            "C"
+        ]
+    },
+    "Piscine": {
+        "langs": [
+            "Bash",
+            "C"
+        ]
+    },
+    "push_swap": {
+        "langs": [
+            "C"
+        ]
+    },
+    "so_long": {
+        "langs": [
+            "C"
+        ]
+    },
+    "biped_bot": {
+        "langs": [
+            "Arduino"
+        ]
+    },
+    "simple_alarm": {
+        "langs": [
+            "Arduino"
+        ]
+    },
+    "sunflower_1_LDR": {
+        "langs": [
+            "Arduino"
+        ]
+    },
+    "sunflower_2_LDR": {
+        "langs": [
+            "Arduino"
+        ]
+    },
+    "sunflower_4_LDR": {
+        "langs": [
+            "Arduino"
+        ]
+    },
+    "werable_health_tracker": {
+        "langs": [
+            "Arduino"
+        ]
+    },
+    "face_detection": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "OpenCV"
+        ]
+    },
+    "face_mesh": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "OpenCV"
+        ]
+    },
+    "finger_counter": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "OpenCV"
+        ]
+    },
+    "Hand_Tracking": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "OpenCV"
+        ]
+    },
+    "personal_ai_trainer": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "OpenCV"
+        ]
+    },
+    "pose_estimation": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "OpenCV"
+        ]
+    },
+    "analyzing_cryptocurrencies": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Pandas",
+            "Matplotlib"
+        ]
+    },
+    "bitcoin_daily_return": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Numpy",
+            "Pandas",
+            "Matplotlib"
+        ]
+    },
+    "bitcoin_prediction_ML": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Numpy",
+            "Pandas"
+        ]
+    },
+    "bitcoin_prediction_NN": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Numpy",
+            "Pandas",
+            "Matplotlib",
+            "Scikit_Learn",
+            "TensorFlow",
+            "Keras"
+        ]
+    },
+    "bitcoin_price_prediction": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Numpy",
+            "Pandas",
+            "Matplotlib",
+            "Scikit_Learn",
+            "Keras"
+        ]
+    },
+    "bitcoin_twitter_sentiment_analysis": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Numpy",
+            "Pandas",
+            "Matplotlib"
+        ]
+    },
+    "channels_detection": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Numpy",
+            "Pandas",
+            "Matplotlib"
+        ]
+    },
+    "equal_weight_s_p_500_index_fund": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Numpy",
+            "Pandas"
+        ]
+    },
+    "fake_news_detection": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Numpy",
+            "Pandas",
+            "Scikit_Learn"
+        ]
+    },
+    "fake_news_detection_4_models": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Numpy",
+            "Pandas",
+            "Scikit_Learn"
+        ]
+    },
+    "head_and_shoulders_detection": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Pandas",
+            "Numpy"
+        ]
+    },
+    "price_prediction_chain": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Numpy",
+            "Pandas",
+            "Matplotlib",
+            "Scikit_Learn",
+            "Keras"
+        ]
+    },
+    "quantitative_momentum_investing_strategy": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Numpy",
+            "Pandas"
+        ]
+    },
+    "quantitative_value_investing_strategy": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Numpy",
+            "Pandas"
+        ]
+    },
+    "triangle_detection": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Numpy",
+            "Pandas"
+        ]
+    },
+    "twitter_bitcoin_sentiment_analysis": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Numpy",
+            "Pandas",
+            "Matplotlib",
+            "Scikit_Learn"
+        ]
+    },
+    "game_1": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Pygame"
+        ]
+    },
+    "game_2": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Pygame"
+        ]
+    },
+    "game_3": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Pygame"
+        ]
+    },
+    "game_4": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Pygame"
+        ]
+    },
+    "game_5": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Pygame"
+        ]
+    },
+    "game_6": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Pygame"
+        ]
+    },
+    "visual_novel": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Ren_py"
+        ]
+    },
+    "auto_hot_key_win": {
+        "langs": [
+            "Auto_Hot_Key"
+        ]
+    },
+    "C_learn": {
+        "langs": [
+            "C"
+        ]
+    },
+    "drive_auto_backup": {
+        "langs": [
+            "Python"
+        ]
+    },
+    "file_converter": {
+        "langs": [
+            "Python"
+        ]
+    },
+    "Houseki": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Kivy",
+            "KivyMD"
+        ]
+    },
+    "nyquist_visualizer": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Matplotlib"
+        ]
+    },
+    "os-dev": {
+        "langs": [
+            "Assembly",
+            "C"
+        ]
+    },
+    "python_builder": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Pyinstaller"
+        ]
+    },
+    "telegram_bot_sample": {
+        "langs": [
+            "Python"
+        ]
+    },
+    "opengl_python": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "OpenGL"
+        ]
+    },
+    "connect_four": {
+        "langs": [
+            "Java"
+        ]
+    },
+    "HW2": {
+        "langs": [
+            "Python"
+        ]
+    },
+    "HW4": {
+        "langs": [
+            "Python"
+        ]
+    },
+    "HW6": {
+        "langs": [
+            "Python"
+        ]
+    },
+    "HW8": {
+        "langs": [
+            "Python"
+        ]
+    },
+    "introduction_to_algorithms": {
+        "langs": [
+            "Python"
+        ]
+    },
+    "roman_scraper": {
+        "langs": [
+            "Java"
+        ]
+    },
+    "badge_generator": {
+        "langs": [
+            "Python"
+        ]
+    },
+    "controller_tester": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Pygame"
+        ]
+    },
+    "kivymd_style": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Kivy",
+            "KivyMD"
+        ]
+    },
+    "pip_upgrader": {
+        "langs": [
+            "Python"
+        ]
+    },
+    "repo_maintainer": {
+        "langs": [
+            "Python"
+        ]
+    },
+    "wave_reader": {
+        "langs": [
+            "Python"
+        ],
+        "frames_and_libs": [
+            "Numpy",
+            "Matplotlib"
+        ]
+    }
+}

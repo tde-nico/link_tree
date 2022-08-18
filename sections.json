@@ -1,0 +1,95 @@
+{
+    "42": [
+        "42_common_core",
+        "42_Exams",
+        "Born2beroot",
+        "CPP",
+        "cube3d",
+        "DAAB_Piscine",
+        "ft_containers",
+        "ft_printf",
+        "get_next_line",
+        "Libft",
+        "minishell",
+        "minitalk",
+        "net_practice",
+        "philosophers",
+        "Piscine",
+        "push_swap",
+        "so_long"
+    ],
+    "Arduino": [
+        "biped_bot",
+        "simple_alarm",
+        "sunflower_1_LDR",
+        "sunflower_2_LDR",
+        "sunflower_4_LDR",
+        "werable_health_tracker"
+    ],
+    "Computer Vision": [
+        "face_detection",
+        "face_mesh",
+        "finger_counter",
+        "Hand_Tracking",
+        "personal_ai_trainer",
+        "pose_estimation"
+    ],
+    "Finance": [
+        "analyzing_cryptocurrencies",
+        "bitcoin_daily_return",
+        "bitcoin_prediction_ML",
+        "bitcoin_prediction_NN",
+        "bitcoin_price_prediction",
+        "bitcoin_twitter_sentiment_analysis",
+        "channels_detection",
+        "equal_weight_s_p_500_index_fund",
+        "fake_news_detection",
+        "fake_news_detection_4_models",
+        "head_and_shoulders_detection",
+        "price_prediction_chain",
+        "quantitative_momentum_investing_strategy",
+        "quantitative_value_investing_strategy",
+        "triangle_detection",
+        "twitter_bitcoin_sentiment_analysis"
+    ],
+    "Games": [
+        "game_1",
+        "game_2",
+        "game_3",
+        "game_4",
+        "game_5",
+        "game_6",
+        "visual_novel"
+    ],
+    "Projects": [
+        "auto_hot_key_win",
+        "C_learn",
+        "drive_auto_backup",
+        "file_converter",
+        "Houseki",
+        "nyquist_visualizer",
+        "os-dev",
+        "python_builder",
+        "telegram_bot_sample"
+    ],
+    "Rendering": [
+        "opengl_python"
+    ],
+    "Sapienza": [
+        "connect_four",
+        "HW2",
+        "HW4",
+        "HW6",
+        "HW8",
+        "introduction_to_algorithms",
+        "roman_scraper"
+    ],
+    "Tools": [
+        "badge_generator",
+        "controller_tester",
+        "kivymd_style",
+        "pip_upgrader",
+        "repo_maintainer",
+        "wave_reader"
+    ]
+}
