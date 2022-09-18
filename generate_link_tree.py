@@ -1,67 +1,103 @@
+import requests
 import json
-
-def dump(fname, data):
-	with open(fname, 'w') as f:
-		json.dump(data, f, indent=4)
-
-def load(fname):
-	with open(fname, 'r') as f:
-		data = json.load(f)
-	return data
-
-def save(fname, data):
-	with open(fname, 'w') as f:
-		f.write(data)
-
-
-
 
 USER = 'tde-nico'
 FILENAME = 'README.md'
+VERBOSE = True
 
 COLUMNS = {
 	'Languages': 'langs',
 	'Frameworks and Libraries': 'frames_and_libs',
 }
 
-
-REPOS = load('repos.json')
-SECTIONS = load('sections.json')
-
-
-
-
-def low(text):
-	return text.lower()
+EXCLUDES = [
+	USER,
+	'custom_osu_skin',
+]
 
 
-def get_repo_info(repo):
-	data = REPOS.get(repo, {})
+
+
+def save(fname, data):
+	with open(fname, 'w') as f:
+		f.write(data)
+
+
+def get_repos(username):
+	names = []
+	page_number = 1
+	while page_number <= 100:
+		responce = requests.get(f'https://api.github.com/users/{username}/repos?page={page_number}')
+		page_repos = json.loads(responce.text)
+		if not page_repos:
+			break
+		names += [repo['name'] for repo in page_repos]
+		page_number += 1
+	return names
+
+
+
+def get_tags(username, repo):
+	req = requests.get(f'https://raw.githubusercontent.com/{username}/{repo}/master/README.md')
+	content = req.content.decode()
+	comment = content.split('<!--', 1)[-1].split('-->', 1)[0]
+
+	groups = []
+	langs = []
+	frames_and_libs = []
+
+	lines = [line for line in comment.split('\n') if line]
+
+	reader = None
+	for line in lines:
+		if line == '#groups':
+			reader = 'groups'
+			continue
+		elif line in ('#langs', '#languages'):
+			reader = 'langs'
+			continue
+		elif line in ('#frames_and_libs', '#frames and libs', '#libs', '#frames'):
+			reader = 'frames'
+			continue
+
+		if reader == 'groups':
+			line = line.replace("_", " ")
+			groups.append(line)
+		elif reader == 'langs':
+			langs.append(line)
+		elif reader == 'frames':
+			frames_and_libs.append(line)
+
+	return groups, langs, frames_and_libs
+
+
+
+def get_repo_info(repo, data, columns):
 	info = {
 		'name': repo.replace('_', ' '),
+		'link_name': repo,
 	}
 
-	for col in COLUMNS:
-		name = COLUMNS[col]
-		content = data.get(name, None)
+	for col in columns.values():
+		content = data.get(col, None)
 		if content:
 			text = '<div align="left">\n'
-			for con in sorted(content, key=low):
-				text += f'\t\t\t<img src="{name}/{con}.svg"/>\n'
+			for con in sorted(content, key=lambda x: x.lower()):
+				text += f'\t\t\t<img src="{col}/{con}.svg"/>\n'
 			text += '\t\t</div>'
 		else:
 			text = '<br>'
-		info[name] = text
+		info[col] = text
 	
 	return info
 
 
 
-def generate_section(name, repos):
+def generate_section(username, name, repos, columns):
 	text = f"<details>\n<summary>{name}</summary>\n<br>\n<table border=3 align=\"center\">\n"
 
 	text += '<tr>'
-	for col in ['Name'] + list(COLUMNS.keys()):
+	for col in ['Name'] + list(columns.keys()):
 		text += f"""
 	<td>
 		{col}
@@ -69,11 +105,11 @@ def generate_section(name, repos):
 	text += '\n</tr>\n'
 
 	for repo in repos:
-		info = get_repo_info(repo)
+		info = repo
 		text += '<tr>'
 		text += f"""
 	<td>
-		<a href="https://github.com/{USER}/{repo}">{info['name']}</a>
+		<a href="https://github.com/{username}/{info['link_name']}">{info['name']}</a>
 	</td><td>
 		{info['langs']}
 	</td><td>
@@ -85,18 +121,60 @@ def generate_section(name, repos):
 	return text
 
 
-def main():
-	tree = '# link_tree\n\n'
 
-	for section in sorted(SECTIONS):
-		tree += generate_section(section, sorted(SECTIONS[section], key=low))
+
+def main(username, fname, columns, verbose):
+	if verbose:
+		print(f'[+] Grabbing {username} repos')
+	try:
+		repos = get_repos(username)
+	except Exception:
+		if verbose:
+			print(f'[-] Error while grabbing {username} repos')
+		return
+
+	data = {}
+	for repo in repos:
+		if repo in EXCLUDES:
+			continue
+		if verbose:
+			print(f'[+] Grabbing {repo}')
+		try:
+			groups, langs, frames_and_libs = get_tags(username, repo)
+			data[repo] = {'groups': groups, 'langs': langs, 'frames_and_libs': frames_and_libs}
+		except Exception:
+			if verbose:
+				print(f'[-] Error while grabbing {repo}')
+	
+	sections = {}
+	group = 0
+	default_section = 'Projects'
+	for repo, info in data.items():
+		if verbose:
+			print(f'[+] Formatting {repo} data')
+		repo_info = get_repo_info(repo, info, columns)
+		#print(sections)
+		if info['groups']:
+			sections[info['groups'][group]] = sections.get(info['groups'][group], []) + [repo_info]
+		else:
+			#print(sections.get(default_section, []), repo_info)
+			sections[default_section] = sections.get(default_section, []) + [repo_info]
+
+	tree = '# link_tree\n\n'
+	tree += "\n<!--\n#groups\n\n#languages\nPython\n\n#frames and libs\n\n-->\n\n\n"
+	for section in sorted(sections.keys()):
+		if verbose:
+			print(f'[+] Generating {section} section')
+		tree += generate_section(username, section, sorted(sections[section], key=lambda x: x['name'].lower()), columns)
 		tree += '\n\n'
 
-	save(FILENAME, tree)
+	if verbose:
+		print(f'[+] Saving to {fname}')
+	save(fname, tree)
+
+
 
 
 
 if __name__ == '__main__':
-	main()
-
-
+	main(USER, FILENAME, COLUMNS, VERBOSE)

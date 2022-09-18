@@ -71,7 +71,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/cube3d">cube3d</a>
+		<a href="https://github.com/tde-nico/cube3D">cube3D</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/C.svg"/>
@@ -88,7 +88,12 @@ Python
 			<img src="langs/Python.svg"/>
 		</div>
 	</td><td>
-		<br>
+		<div align="left">
+			<img src="frames_and_libs/Matplotlib.svg"/>
+			<img src="frames_and_libs/Numpy.svg"/>
+			<img src="frames_and_libs/Pandas.svg"/>
+			<img src="frames_and_libs/Scikit_Learn.svg"/>
+		</div>
 	</td>
 </tr>
 <tr>
@@ -332,6 +337,19 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/face_filters">face filters</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/OpenCV.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/face_mesh">face mesh</a>
 	</td><td>
 		<div align="left">
@@ -358,7 +376,20 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/Hand_Tracking">Hand Tracking</a>
+		<a href="https://github.com/tde-nico/gesture_volume_control">gesture volume control</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/OpenCV.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/hand_tracking">hand tracking</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -385,6 +416,32 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/pose_estimation">pose estimation</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/OpenCV.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/virtual_mouse">virtual mouse</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/OpenCV.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/virtual_painter">virtual painter</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -698,7 +755,7 @@ Python
 		</div>
 	</td><td>
 		<div align="left">
-			<img src="frames_and_libs/Pygame.svg"/>
+			<img src="frames_and_libs/Ursina.svg"/>
 		</div>
 	</td>
 </tr>
@@ -751,6 +808,32 @@ Python
 	</td><td>
 		<div align="left">
 			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/snake">snake</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/snake_3d">snake 3d</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Ursina.svg"/>
 		</div>
 	</td>
 </tr>
@@ -817,7 +900,9 @@ Python
 			<img src="langs/Python.svg"/>
 		</div>
 	</td><td>
-		<br>
+		<div align="left">
+			<img src="frames_and_libs/Google_Drive.svg"/>
+		</div>
 	</td>
 </tr>
 <tr>
@@ -847,6 +932,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/link_tree">link tree</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/nyquist_visualizer">nyquist visualizer</a>
 	</td><td>
 		<div align="left">
@@ -868,19 +964,6 @@ Python
 		</div>
 	</td><td>
 		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/python_builder">python builder</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Python.svg"/>
-		</div>
-	</td><td>
-		<div align="left">
-			<img src="frames_and_libs/Pyinstaller.svg"/>
-		</div>
 	</td>
 </tr>
 <tr>
@@ -917,6 +1000,19 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/opengl_python">opengl python</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/OpenGL.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/panda3D_shaders">panda3D shaders</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -1021,7 +1117,9 @@ Python
 			<img src="langs/Java.svg"/>
 		</div>
 	</td><td>
-		<br>
+		<div align="left">
+			<img src="frames_and_libs/Selenium.svg"/>
+		</div>
 	</td>
 </tr>
 </table>
@@ -1091,6 +1189,19 @@ Python
 		</div>
 	</td><td>
 		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/python_builder">python builder</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pyinstaller.svg"/>
+		</div>
 	</td>
 </tr>
 <tr>
