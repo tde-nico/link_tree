@@ -234,6 +234,40 @@ Python
 
 
 <details>
+<summary>Apps</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/sample_app_0">sample app 0</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Kivy.svg"/>
+			<img src="frames_and_libs/KivyMD.svg"/>
+		</div>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+
+
+<details>
 <summary>Arduino</summary>
 <br>
 <table border=3 align="center">
@@ -608,36 +642,6 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/fake_news_detection">fake news detection</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Python.svg"/>
-		</div>
-	</td><td>
-		<div align="left">
-			<img src="frames_and_libs/Numpy.svg"/>
-			<img src="frames_and_libs/Pandas.svg"/>
-			<img src="frames_and_libs/Scikit_Learn.svg"/>
-		</div>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/fake_news_detection_4_models">fake news detection 4 models</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Python.svg"/>
-		</div>
-	</td><td>
-		<div align="left">
-			<img src="frames_and_libs/Numpy.svg"/>
-			<img src="frames_and_libs/Pandas.svg"/>
-			<img src="frames_and_libs/Scikit_Learn.svg"/>
-		</div>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/head_and_shoulders_detection">head and shoulders detection</a>
 	</td><td>
 		<div align="left">
@@ -825,6 +829,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/game_server">game server</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/snake">snake</a>
 	</td><td>
 		<div align="left">
@@ -860,6 +875,88 @@ Python
 		<div align="left">
 			<img src="frames_and_libs/Ren_py.svg"/>
 		</div>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+
+
+<details>
+<summary>NLP</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/fake_news_detection">fake news detection</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Numpy.svg"/>
+			<img src="frames_and_libs/Pandas.svg"/>
+			<img src="frames_and_libs/Scikit_Learn.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/fake_news_detection_4_models">fake news detection 4 models</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Numpy.svg"/>
+			<img src="frames_and_libs/Pandas.svg"/>
+			<img src="frames_and_libs/Scikit_Learn.svg"/>
+		</div>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+
+
+<details>
+<summary>OS</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/os-dev">os-dev</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Assembly.svg"/>
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
 	</td>
 </tr>
 </table>
@@ -964,18 +1061,6 @@ Python
 		<div align="left">
 			<img src="frames_and_libs/Matplotlib.svg"/>
 		</div>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/os-dev">os-dev</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Assembly.svg"/>
-			<img src="langs/C.svg"/>
-		</div>
-	</td><td>
-		<br>
 	</td>
 </tr>
 <tr>
@@ -1221,6 +1306,18 @@ Python
 		<a href="https://github.com/tde-nico/repo_maintainer">repo maintainer</a>
 	</td><td>
 		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ts_segment_downloader">ts segment downloader</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Bash.svg"/>
 			<img src="langs/Python.svg"/>
 		</div>
 	</td><td>
