@@ -262,6 +262,20 @@ Python
 		</div>
 	</td>
 </tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/sample_app_1">sample app 1</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Kivy.svg"/>
+			<img src="frames_and_libs/KivyMD.svg"/>
+		</div>
+	</td>
+</tr>
 </table>
 <br>
 </details>
@@ -949,6 +963,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/cross_compiler_toolchain">cross compiler toolchain</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Bash.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/os-dev">os-dev</a>
 	</td><td>
 		<div align="left">
@@ -1096,6 +1121,19 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/advanced_ray_marching">advanced ray marching</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/OpenGL.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/opengl_python">opengl python</a>
 	</td><td>
 		<div align="left">
@@ -1110,6 +1148,19 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/panda3D_shaders">panda3D shaders</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/OpenGL.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ray_marching">ray marching</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
