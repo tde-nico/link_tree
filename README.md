@@ -462,6 +462,21 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/object_detection_webapp">object detection webapp</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Flask.svg"/>
+			<img src="frames_and_libs/Numpy.svg"/>
+			<img src="frames_and_libs/TensorFlow.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/personal_ai_trainer">personal ai trainer</a>
 	</td><td>
 		<div align="left">
@@ -796,6 +811,20 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/Cards_Against_Humanity">Cards Against Humanity</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Kivy.svg"/>
+			<img src="frames_and_libs/KivyMD.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/doom">doom</a>
 	</td><td>
 		<div align="left">
@@ -887,17 +916,6 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/game_server">game server</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Python.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/snake">snake</a>
 	</td><td>
 		<div align="left">
@@ -980,6 +998,35 @@ Python
 	</td><td>
 		<div align="left">
 			<img src="frames_and_libs/Numpy.svg"/>
+			<img src="frames_and_libs/Pandas.svg"/>
+			<img src="frames_and_libs/Scikit_Learn.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/fake_news_detector">fake news detector</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Numpy.svg"/>
+			<img src="frames_and_libs/Pandas.svg"/>
+			<img src="frames_and_libs/Scikit_Learn.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/finance_articles_classifier">finance articles classifier</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
 			<img src="frames_and_libs/Pandas.svg"/>
 			<img src="frames_and_libs/Scikit_Learn.svg"/>
 		</div>
@@ -1086,6 +1133,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/file_converter">file converter</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/game_server">game server</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
