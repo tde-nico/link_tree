@@ -109,6 +109,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/ft_irc">ft irc</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C++.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/ft_printf">ft printf</a>
 	</td><td>
 		<div align="left">
@@ -234,139 +245,8 @@ Python
 
 
 <details>
-<summary>Apps</summary>
+<summary>AI</summary>
 <br>
-<table border=3 align="center">
-<tr>
-	<td>
-		Name
-	</td>
-	<td>
-		Languages
-	</td>
-	<td>
-		Frameworks and Libraries
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/sample_app_0">sample app 0</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Python.svg"/>
-		</div>
-	</td><td>
-		<div align="left">
-			<img src="frames_and_libs/Kivy.svg"/>
-			<img src="frames_and_libs/KivyMD.svg"/>
-		</div>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/sample_app_1">sample app 1</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Python.svg"/>
-		</div>
-	</td><td>
-		<div align="left">
-			<img src="frames_and_libs/Kivy.svg"/>
-			<img src="frames_and_libs/KivyMD.svg"/>
-		</div>
-	</td>
-</tr>
-</table>
-<br>
-</details>
-
-
-<details>
-<summary>Arduino</summary>
-<br>
-<table border=3 align="center">
-<tr>
-	<td>
-		Name
-	</td>
-	<td>
-		Languages
-	</td>
-	<td>
-		Frameworks and Libraries
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/biped_bot">biped bot</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Arduino.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/simple_alarm">simple alarm</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Arduino.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/sunflower_1_LDR">sunflower 1 LDR</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Arduino.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/sunflower_2_LDR">sunflower 2 LDR</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Arduino.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/sunflower_4_LDR">sunflower 4 LDR</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Arduino.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/werable_health_tracker">werable health tracker</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Arduino.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-</table>
-<br>
-</details>
-
-
 <details>
 <summary>Computer Vision</summary>
 <br>
@@ -525,6 +405,277 @@ Python
 		<div align="left">
 			<img src="frames_and_libs/OpenCV.svg"/>
 		</div>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+<details>
+<summary>NLP</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/fake_news_detection">fake news detection</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Numpy.svg"/>
+			<img src="frames_and_libs/Pandas.svg"/>
+			<img src="frames_and_libs/Scikit_Learn.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/fake_news_detection_4_models">fake news detection 4 models</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Numpy.svg"/>
+			<img src="frames_and_libs/Pandas.svg"/>
+			<img src="frames_and_libs/Scikit_Learn.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/fake_news_detector">fake news detector</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Numpy.svg"/>
+			<img src="frames_and_libs/Pandas.svg"/>
+			<img src="frames_and_libs/Scikit_Learn.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/finance_articles_classifier">finance articles classifier</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pandas.svg"/>
+			<img src="frames_and_libs/Scikit_Learn.svg"/>
+		</div>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/path_finding_algos">path finding algos</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+
+
+<details>
+<summary>Apps</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/sample_app_0">sample app 0</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Kivy.svg"/>
+			<img src="frames_and_libs/KivyMD.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/sample_app_1">sample app 1</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Kivy.svg"/>
+			<img src="frames_and_libs/KivyMD.svg"/>
+		</div>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+
+
+<details>
+<summary>Arduino</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/biped_bot">biped bot</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Arduino.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/simple_alarm">simple alarm</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Arduino.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/sunflower_1_LDR">sunflower 1 LDR</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Arduino.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/sunflower_2_LDR">sunflower 2 LDR</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Arduino.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/sunflower_4_LDR">sunflower 4 LDR</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Arduino.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/werable_health_tracker">werable health tracker</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Arduino.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+
+
+<details>
+<summary>Cloud</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/terraform_azure">terraform azure</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Bash.svg"/>
+			<img src="langs/Terraform.svg"/>
+		</div>
+	</td><td>
+		<br>
 	</td>
 </tr>
 </table>
@@ -950,85 +1101,6 @@ Python
 	</td><td>
 		<div align="left">
 			<img src="frames_and_libs/Ren_py.svg"/>
-		</div>
-	</td>
-</tr>
-</table>
-<br>
-</details>
-
-
-<details>
-<summary>NLP</summary>
-<br>
-<table border=3 align="center">
-<tr>
-	<td>
-		Name
-	</td>
-	<td>
-		Languages
-	</td>
-	<td>
-		Frameworks and Libraries
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/fake_news_detection">fake news detection</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Python.svg"/>
-		</div>
-	</td><td>
-		<div align="left">
-			<img src="frames_and_libs/Numpy.svg"/>
-			<img src="frames_and_libs/Pandas.svg"/>
-			<img src="frames_and_libs/Scikit_Learn.svg"/>
-		</div>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/fake_news_detection_4_models">fake news detection 4 models</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Python.svg"/>
-		</div>
-	</td><td>
-		<div align="left">
-			<img src="frames_and_libs/Numpy.svg"/>
-			<img src="frames_and_libs/Pandas.svg"/>
-			<img src="frames_and_libs/Scikit_Learn.svg"/>
-		</div>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/fake_news_detector">fake news detector</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Python.svg"/>
-		</div>
-	</td><td>
-		<div align="left">
-			<img src="frames_and_libs/Numpy.svg"/>
-			<img src="frames_and_libs/Pandas.svg"/>
-			<img src="frames_and_libs/Scikit_Learn.svg"/>
-		</div>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/finance_articles_classifier">finance articles classifier</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Python.svg"/>
-		</div>
-	</td><td>
-		<div align="left">
-			<img src="frames_and_libs/Pandas.svg"/>
-			<img src="frames_and_libs/Scikit_Learn.svg"/>
 		</div>
 	</td>
 </tr>
