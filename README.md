@@ -489,15 +489,15 @@ Python
 </details>
 <table border=3 align="center">
 <tr>
-	<td>
-		Name
-	</td>
-	<td>
-		Languages
-	</td>
-	<td>
-		Frameworks and Libraries
-	</td>
+		<td>
+			Name
+		</td>
+		<td>
+			Languages
+		</td>
+		<td>
+			Frameworks and Libraries
+		</td>
 </tr>
 <tr>
 	<td>
@@ -668,6 +668,18 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/terraform_aws">terraform aws</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Bash.svg"/>
+			<img src="langs/Terraform.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/terraform_azure">terraform azure</a>
 	</td><td>
 		<div align="left">
@@ -678,32 +690,13 @@ Python
 		<br>
 	</td>
 </tr>
-</table>
-<br>
-</details>
-
-
-<details>
-<summary>Courses</summary>
-<br>
-<table border=3 align="center">
 <tr>
 	<td>
-		Name
-	</td>
-	<td>
-		Languages
-	</td>
-	<td>
-		Frameworks and Libraries
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/CCIE_Python">CCIE Python</a>
+		<a href="https://github.com/tde-nico/terraform_gitops_spacelift">terraform gitops spacelift</a>
 	</td><td>
 		<div align="left">
-			<img src="langs/Python.svg"/>
+			<img src="langs/Bash.svg"/>
+			<img src="langs/Terraform.svg"/>
 		</div>
 	</td><td>
 		<br>
@@ -1110,6 +1103,179 @@ Python
 
 
 <details>
+<summary>Learning</summary>
+<br>
+<details>
+<summary>Courses</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/CCIE_Python">CCIE Python</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+<details>
+<summary>IBM</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/cobol_course">cobol course</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Cobol.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+<details>
+<summary>Sapienza</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/connect_four">connect four</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Java.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/HW2">HW2</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/HW4">HW4</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/HW6">HW6</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/HW8">HW8</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/introduction_to_algorithms">introduction to algorithms</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/roman_scraper">roman scraper</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Java.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Selenium.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/verilog_examples">verilog examples</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/SystemVerilog.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+<br>
+</details>
+
+
+<details>
 <summary>OS</summary>
 <br>
 <table border=3 align="center">
@@ -1345,102 +1511,16 @@ Python
 		</div>
 	</td>
 </tr>
-</table>
-<br>
-</details>
-
-
-<details>
-<summary>Sapienza</summary>
-<br>
-<table border=3 align="center">
 <tr>
 	<td>
-		Name
-	</td>
-	<td>
-		Languages
-	</td>
-	<td>
-		Frameworks and Libraries
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/connect_four">connect four</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Java.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/HW2">HW2</a>
+		<a href="https://github.com/tde-nico/voxel_starfield">voxel starfield</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
 		</div>
 	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/HW4">HW4</a>
-	</td><td>
 		<div align="left">
-			<img src="langs/Python.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/HW6">HW6</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Python.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/HW8">HW8</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Python.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/introduction_to_algorithms">introduction to algorithms</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Python.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/roman_scraper">roman scraper</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Java.svg"/>
-		</div>
-	</td><td>
-		<div align="left">
-			<img src="frames_and_libs/Selenium.svg"/>
+			<img src="frames_and_libs/Pygame.svg"/>
 		</div>
 	</td>
 </tr>
@@ -1572,6 +1652,17 @@ Python
 			<img src="frames_and_libs/Matplotlib.svg"/>
 			<img src="frames_and_libs/Numpy.svg"/>
 		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/wsl2_port_forwarding">wsl2 port forwarding</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Powershell.svg"/>
+		</div>
+	</td><td>
+		<br>
 	</td>
 </tr>
 </table>

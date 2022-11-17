@@ -131,17 +131,21 @@ def generate_section(username, name, repos, columns):
 def generate_field(username, name, sections, columns):
 	text = f"<details>\n<summary>{name}</summary>\n<br>\n"
 
+	table = 0
 	for sub in sections[name]:
 		if type(sub) == list:
 			text += generate_section(username, sub[0], sorted(sub[1:], key=lambda x: x['name'].lower()), columns)
+		elif type(sub) == dict:
+			table = 1
 
-	text += '<table border=3 align=\"center\">\n<tr>'
-	for col in ['Name'] + list(columns.keys()):
-		text += f"""
-	<td>
-		{col}
-	</td>"""
-	text += '\n</tr>\n'
+	if table:
+		text += '<table border=3 align=\"center\">\n<tr>'
+		for col in ['Name'] + list(columns.keys()):
+			text += f"""
+		<td>
+			{col}
+		</td>"""
+		text += '\n</tr>\n'
 
 	for sub in sections[name]:
 		if type(sub) == dict:
@@ -156,7 +160,9 @@ def generate_field(username, name, sections, columns):
 	</td>"""
 			text += '\n</tr>\n'
 
-	text += "</table>\n<br>\n</details>\n"
+	if table:
+		text += "</table>\n"
+	text += "<br>\n</details>\n"
 	return text
 
 
