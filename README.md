@@ -131,6 +131,20 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/ft_transcendence">ft transcendence</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Typescript.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/NestJS.svg"/>
+			<img src="frames_and_libs/Vue_js.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/get_next_line">get next line</a>
 	</td><td>
 		<div align="left">
@@ -1060,6 +1074,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/pong_js">pong js</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/TypeScript.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/snake">snake</a>
 	</td><td>
 		<div align="left">
@@ -1474,6 +1499,71 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/cardioid">cardioid</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/OpenGL.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/cardioind_basics">cardioind basics</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/langton_ants">langton ants</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/matrix_vision">matrix vision</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/maze_generator">maze generator</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/opengl_python">opengl python</a>
 	</td><td>
 		<div align="left">
@@ -1500,6 +1590,19 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/python_clock">python clock</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/ray_marching">ray marching</a>
 	</td><td>
 		<div align="left">
@@ -1508,6 +1611,34 @@ Python
 	</td><td>
 		<div align="left">
 			<img src="frames_and_libs/OpenGL.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/rubik_cube">rubik cube</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Ursina.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/tunnel_shader">tunnel shader</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Numpy.svg"/>
+			<img src="frames_and_libs/OpenGL.svg"/>
+			<img src="frames_and_libs/Pygame.svg"/>
 		</div>
 	</td>
 </tr>
