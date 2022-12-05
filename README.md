@@ -139,7 +139,7 @@ Python
 	</td><td>
 		<div align="left">
 			<img src="frames_and_libs/NestJS.svg"/>
-			<img src="frames_and_libs/Vue_js.svg"/>
+			<img src="frames_and_libs/React.svg"/>
 		</div>
 	</td>
 </tr>
@@ -969,6 +969,19 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/asteroid">asteroid</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/Cards_Against_Humanity">Cards Against Humanity</a>
 	</td><td>
 		<div align="left">
@@ -1513,6 +1526,19 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/cardioind_basics">cardioind basics</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/doom_fire_algorithm">doom fire algorithm</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
