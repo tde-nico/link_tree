@@ -134,7 +134,7 @@ Python
 		<a href="https://github.com/tde-nico/ft_transcendence">ft transcendence</a>
 	</td><td>
 		<div align="left">
-			<img src="langs/Typescript.svg"/>
+			<img src="langs/TypeScript.svg"/>
 		</div>
 	</td><td>
 		<div align="left">
