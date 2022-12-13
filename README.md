@@ -98,6 +98,19 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/dr-quine">dr-quine</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Assembly.svg"/>
+			<img src="langs/C.svg"/>
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/ft_containers">ft containers</a>
 	</td><td>
 		<div align="left">
@@ -247,6 +260,18 @@ Python
 		<a href="https://github.com/tde-nico/so_long">so long</a>
 	</td><td>
 		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/woody-woodpacker">woody-woodpacker</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Assembly.svg"/>
 			<img src="langs/C.svg"/>
 		</div>
 	</td><td>
@@ -1539,6 +1564,30 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/doom_fire_algorithm">doom fire algorithm</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/fractal_tree">fractal tree</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/game_of_life">game of life</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
