@@ -268,6 +268,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/tinky-winkey">tinky-winkey</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/woody-woodpacker">woody-woodpacker</a>
 	</td><td>
 		<div align="left">
@@ -1587,6 +1598,19 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/galton_board">galton board</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/game_of_life">game of life</a>
 	</td><td>
 		<div align="left">
@@ -1865,7 +1889,7 @@ Python
 		<a href="https://github.com/tde-nico/wsl2_port_forwarding">wsl2 port forwarding</a>
 	</td><td>
 		<div align="left">
-			<img src="langs/Powershell.svg"/>
+			<img src="langs/PowerShell.svg"/>
 		</div>
 	</td><td>
 		<br>
