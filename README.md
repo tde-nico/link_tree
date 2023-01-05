@@ -144,20 +144,6 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/ft_transcendence">ft transcendence</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/TypeScript.svg"/>
-		</div>
-	</td><td>
-		<div align="left">
-			<img src="frames_and_libs/NestJS.svg"/>
-			<img src="frames_and_libs/React.svg"/>
-		</div>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/get_next_line">get next line</a>
 	</td><td>
 		<div align="left">
@@ -1018,6 +1004,32 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/asteroids_oop">asteroids oop</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/breakout">breakout</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/Cards_Against_Humanity">Cards Against Humanity</a>
 	</td><td>
 		<div align="left">
@@ -1032,7 +1044,46 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/contra">contra</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/doom">doom</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/flappy_doom">flappy doom</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/frogger">frogger</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -1160,6 +1211,58 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/snake_oop">snake oop</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/snake_short_code">snake short code</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/tetris">tetris</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/tic_tac_toe">tic tac toe</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/visual_novel">visual novel</a>
 	</td><td>
 		<div align="left">
@@ -1168,6 +1271,19 @@ Python
 	</td><td>
 		<div align="left">
 			<img src="frames_and_libs/Ren_py.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/western_shooter">western shooter</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
 		</div>
 	</td>
 </tr>
@@ -1535,6 +1651,32 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/3D_engine">3D engine</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/3D_model_render">3D model render</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/advanced_ray_marching">advanced ray marching</a>
 	</td><td>
 		<div align="left">
@@ -1587,6 +1729,19 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/fractal_shader">fractal shader</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/OpenGL.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/fractal_tree">fractal tree</a>
 	</td><td>
 		<div align="left">
@@ -1594,6 +1749,19 @@ Python
 		</div>
 	</td><td>
 		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/fur_mark">fur mark</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/OpenGL.svg"/>
+		</div>
 	</td>
 </tr>
 <tr>
@@ -1625,6 +1793,33 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/langton_ants">langton ants</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/mandelbrot_viewer">mandelbrot viewer</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Numpy.svg"/>
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/matrix_effect">matrix effect</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -1710,6 +1905,19 @@ Python
 	</td><td>
 		<div align="left">
 			<img src="frames_and_libs/OpenGL.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/retro_voxel_engine">retro voxel engine</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
 		</div>
 	</td>
 </tr>
