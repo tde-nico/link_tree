@@ -2077,6 +2077,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/makefile_sample">makefile sample</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Makefile.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/pip_upgrader">pip upgrader</a>
 	</td><td>
 		<div align="left">
