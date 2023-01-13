@@ -1237,6 +1237,19 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/sprite_stacking_game">sprite stacking game</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/tetris">tetris</a>
 	</td><td>
 		<div align="left">
@@ -1690,6 +1703,20 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/ascii_art">ascii art</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/OpenCV.svg"/>
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/cardioid">cardioid</a>
 	</td><td>
 		<div align="left">
@@ -1858,6 +1885,20 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/mode_7">mode 7</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/OpenGL.svg"/>
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/opengl_python">opengl python</a>
 	</td><td>
 		<div align="left">
@@ -1879,6 +1920,20 @@ Python
 	</td><td>
 		<div align="left">
 			<img src="frames_and_libs/OpenGL.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/planet_sine">planet sine</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/OpenGL.svg"/>
+			<img src="frames_and_libs/Pygame.svg"/>
 		</div>
 	</td>
 </tr>
