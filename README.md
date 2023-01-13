@@ -1939,6 +1939,21 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/primes_2d_sierpinski">primes 2d sierpinski</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Numpy.svg"/>
+			<img src="frames_and_libs/OpenGL.svg"/>
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/python_clock">python clock</a>
 	</td><td>
 		<div align="left">
