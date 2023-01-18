@@ -1898,6 +1898,20 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/menger-sponge">menger-sponge</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/OpenGL.svg"/>
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/mode_7">mode 7</a>
 	</td><td>
 		<div align="left">
