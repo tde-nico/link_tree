@@ -1968,6 +1968,19 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/primes_3d">primes 3d</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/python_clock">python clock</a>
 	</td><td>
 		<div align="left">
@@ -2069,6 +2082,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/badge_generator">badge generator</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/code_lines_counter">code lines counter</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
