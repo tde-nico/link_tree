@@ -1263,6 +1263,19 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/tetris_advanced">tetris advanced</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/tic_tac_toe">tic tac toe</a>
 	</td><td>
 		<div align="left">
