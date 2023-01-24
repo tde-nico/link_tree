@@ -243,6 +243,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/Snow_Crash">Snow Crash</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Bash.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/so_long">so long</a>
 	</td><td>
 		<div align="left">
