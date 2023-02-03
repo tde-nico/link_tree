@@ -38,10 +38,30 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/42_cursus">42 cursus</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/42_Exams">42 Exams</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/Boot2Root">Boot2Root</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Bash.svg"/>
 		</div>
 	</td><td>
 		<br>
@@ -1540,6 +1560,18 @@ Python
 		<br>
 	</td>
 </tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/os-dev_2">os-dev 2</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Assembly.svg"/>
+			<img src="langs/C++.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
 </table>
 <br>
 </details>
@@ -2261,6 +2293,42 @@ Python
 	</td>
 </tr>
 </table>
+<br>
+</details>
+
+
+<details>
+<summary>Web</summary>
+<br>
+<details>
+<summary>Extensions</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/yt_bookmarks">yt bookmarks</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/JavaScript.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+</table>
+<br>
+</details>
 <br>
 </details>
 
