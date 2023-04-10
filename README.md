@@ -263,6 +263,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/Rainfall">Rainfall</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Bash.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/Snow_Crash">Snow Crash</a>
 	</td><td>
 		<div align="left">
@@ -1429,6 +1440,33 @@ Python
 <br>
 </details>
 <details>
+<summary>Cisco</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/CCNA_Labs">CCNA Labs</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+<details>
 <summary>IBM</summary>
 <br>
 <table border=3 align="center">
@@ -1761,6 +1799,15 @@ Python
 		<div align="left">
 			<img src="frames_and_libs/Matplotlib.svg"/>
 		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/OverRide">OverRide</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
 	</td>
 </tr>
 <tr>
@@ -2389,6 +2436,17 @@ Python
 	</td>
 	<td>
 		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/rickroll">rickroll</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/JavaScript.svg"/>
+		</div>
+	</td><td>
+		<br>
 	</td>
 </tr>
 <tr>
