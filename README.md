@@ -229,6 +229,19 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/OverRide">OverRide</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Assembly.svg"/>
+			<img src="langs/C.svg"/>
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/philosophers">philosophers</a>
 	</td><td>
 		<div align="left">
@@ -1803,15 +1816,6 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/OverRide">OverRide</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/telegram_bot_sample">telegram bot sample</a>
 	</td><td>
 		<div align="left">
@@ -2092,6 +2096,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/nft_generator">nft generator</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/opengl_python">opengl python</a>
 	</td><td>
 		<div align="left">
@@ -2359,6 +2374,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/repo_maintainer">repo maintainer</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/torrent_downloader">torrent downloader</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
