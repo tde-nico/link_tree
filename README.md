@@ -746,6 +746,58 @@ Python
 <summary>CTF</summary>
 <br>
 <details>
+<summary>Writeups</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/CCIT_AD_demo">CCIT AD demo</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/misfortune_ctf">misfortune ctf</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/natas">natas</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/PHP.svg"/>
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+<details>
 <summary>Tool</summary>
 <br>
 <table border=3 align="center">
@@ -1525,6 +1577,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/column_formatter">column formatter</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/connect_four">connect four</a>
 	</td><td>
 		<div align="left">
@@ -1645,6 +1708,35 @@ Python
 </table>
 <br>
 </details>
+<br>
+</details>
+
+
+<details>
+<summary>Misc</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/machiavelli_model">machiavelli model</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+</table>
 <br>
 </details>
 
@@ -2374,6 +2466,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/repo_maintainer">repo maintainer</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/temp_mail">temp mail</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
