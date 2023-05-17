@@ -762,6 +762,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/Angstrom_2023">Angstrom 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/CCIT_AD_demo">CCIT AD demo</a>
 	</td><td>
 		<div align="left">
