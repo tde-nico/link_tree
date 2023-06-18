@@ -12,7 +12,6 @@ COLUMNS = {
 
 EXCLUDES = [
 	USER,
-	'custom_osu_skin',
 ]
 
 
