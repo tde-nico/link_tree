@@ -784,6 +784,73 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/CCIT_AD_Demo_2">CCIT AD Demo 2</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C++.svg"/>
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/dante_ctf_2023">dante ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/dead_ctf_2023">dead ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/hero_ctf_2023">hero ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/hsctf_2023">hsctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/m0leCon_Teaser_2023">m0leCon Teaser 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/misfortune_ctf">misfortune ctf</a>
 	</td><td>
 		<div align="left">
@@ -805,6 +872,15 @@ Python
 		<br>
 	</td>
 </tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/PWC_ctf">PWC ctf</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
 </table>
 <br>
 </details>
@@ -821,6 +897,42 @@ Python
 	</td>
 	<td>
 		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/caronte">caronte</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+			<img src="langs/JavaScript.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/React.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/flagWharehouse">flagWharehouse</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Flask.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/pwn_docker">pwn docker</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
 	</td>
 </tr>
 <tr>
@@ -1740,6 +1852,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/custom_osu_skin">custom osu skin</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/machiavelli_model">machiavelli model</a>
 	</td><td>
 		<br>
@@ -1928,6 +2049,15 @@ Python
 		<br>
 	</td>
 </tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/websecfr">websecfr</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
 </table>
 <br>
 </details>
@@ -1957,6 +2087,20 @@ Python
 		</div>
 	</td><td>
 		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/3D_engine_with_reflexes">3D engine with reflexes</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/OpenGL.svg"/>
 			<img src="frames_and_libs/Pygame.svg"/>
 		</div>
 	</td>
@@ -2023,6 +2167,20 @@ Python
 		</div>
 	</td><td>
 		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/doom_engine">doom engine</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Numba.svg"/>
 			<img src="frames_and_libs/Pygame.svg"/>
 		</div>
 	</td>
@@ -2423,6 +2581,19 @@ Python
 		<div align="left">
 			<img src="frames_and_libs/Pygame.svg"/>
 		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/dotfiles">dotfiles</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Bash.svg"/>
+			<img src="langs/Batch.svg"/>
+			<img src="langs/Lua.svg"/>
+		</div>
+	</td><td>
+		<br>
 	</td>
 </tr>
 <tr>
