@@ -848,6 +848,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/HitCon_quals_2023">HitCon quals 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/hsctf_2023">hsctf 2023</a>
 	</td><td>
 		<div align="left">
@@ -1874,6 +1885,17 @@ Python
 		<br>
 	</td>
 </tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/go_course">go course</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
 </table>
 <br>
 </details>
@@ -2096,6 +2118,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/BTLO_memory_analysis_Ransomware">BTLO memory analysis Ransomware</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/C_learn">C learn</a>
 	</td><td>
 		<div align="left">
@@ -2142,7 +2173,16 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/go_course">go course</a>
+		<a href="https://github.com/tde-nico/go-basic-http">go-basic-http</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/go-book-api">go-book-api</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -2194,6 +2234,15 @@ Python
 		<div align="left">
 			<img src="frames_and_libs/Matplotlib.svg"/>
 		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/pygame_to_apk">pygame to apk</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
 	</td>
 </tr>
 <tr>
