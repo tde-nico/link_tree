@@ -153,6 +153,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/ft_ping">ft ping</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/ft_printf">ft printf</a>
 	</td><td>
 		<div align="left">
@@ -695,6 +706,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/sketch_undertale">sketch undertale</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Arduino.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/sunflower_1_LDR">sunflower 1 LDR</a>
 	</td><td>
 		<div align="left">
@@ -773,23 +795,9 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/CCIT_AD_demo">CCIT AD demo</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Python.svg"/>
-		</div>
+		<a href="https://github.com/tde-nico/chroot_labs">chroot labs</a>
 	</td><td>
 		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/CCIT_AD_Demo_2">CCIT AD Demo 2</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/C++.svg"/>
-			<img src="langs/Python.svg"/>
-		</div>
 	</td><td>
 		<br>
 	</td>
@@ -808,6 +816,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/dead_ctf_2023">dead ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/google_ctf_2023">google ctf 2023</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -862,6 +881,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/nahamcon_ctf_2023">nahamcon ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/natas">natas</a>
 	</td><td>
 		<div align="left">
@@ -877,6 +907,28 @@ Python
 		<a href="https://github.com/tde-nico/PWC_ctf">PWC ctf</a>
 	</td><td>
 		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/uiu_ctf_2023">uiu ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/websecfr">websecfr</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/PHP.svg"/>
+		</div>
 	</td><td>
 		<br>
 	</td>
@@ -911,6 +963,17 @@ Python
 		<div align="left">
 			<img src="frames_and_libs/React.svg"/>
 		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/demon_hill">demon hill</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
 	</td>
 </tr>
 <tr>
@@ -1254,6 +1317,9 @@ Python
 <details>
 <summary>Games</summary>
 <br>
+<details>
+<summary>Mods</summary>
+<br>
 <table border=3 align="center">
 <tr>
 	<td>
@@ -1265,6 +1331,60 @@ Python
 	<td>
 		Frameworks and Libraries
 	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/Borderlands-3_split_screen_mod">Borderlands-3 split screen mod</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/JavaScript.svg"/>
+			<img src="langs/PowerShell.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/Mario-Kart-8-Deluxe_mods">Mario-Kart-8-Deluxe mods</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/Super_Mario_3D_World_mods">Super Mario 3D World mods</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/The_Ledgend_of_Zelda_TOTK_mods">The Ledgend of Zelda TOTK mods</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+<table border=3 align="center">
+<tr>
+		<td>
+			Name
+		</td>
+		<td>
+			Languages
+		</td>
+		<td>
+			Frameworks and Libraries
+		</td>
 </tr>
 <tr>
 	<td>
@@ -1599,91 +1719,6 @@ Python
 <summary>Learning</summary>
 <br>
 <details>
-<summary>Courses</summary>
-<br>
-<table border=3 align="center">
-<tr>
-	<td>
-		Name
-	</td>
-	<td>
-		Languages
-	</td>
-	<td>
-		Frameworks and Libraries
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/CCIE_Python">CCIE Python</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Python.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-</table>
-<br>
-</details>
-<details>
-<summary>Cisco</summary>
-<br>
-<table border=3 align="center">
-<tr>
-	<td>
-		Name
-	</td>
-	<td>
-		Languages
-	</td>
-	<td>
-		Frameworks and Libraries
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/CCNA_Labs">CCNA Labs</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-</table>
-<br>
-</details>
-<details>
-<summary>IBM</summary>
-<br>
-<table border=3 align="center">
-<tr>
-	<td>
-		Name
-	</td>
-	<td>
-		Languages
-	</td>
-	<td>
-		Frameworks and Libraries
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/cobol_course">cobol course</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Cobol.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-</table>
-<br>
-</details>
-<details>
 <summary>Sapienza</summary>
 <br>
 <table border=3 align="center">
@@ -1696,6 +1731,17 @@ Python
 	</td>
 	<td>
 		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/algorithm_design">algorithm design</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
 	</td>
 </tr>
 <tr>
@@ -1794,6 +1840,100 @@ Python
 	</td><td>
 		<div align="left">
 			<img src="langs/SystemVerilog.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+<details>
+<summary>Courses</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/CCIE_Python">CCIE Python</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+<details>
+<summary>Cisco</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/CCNA_cheetsheets">CCNA cheetsheets</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/CCNA_Labs">CCNA Labs</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+<details>
+<summary>IBM</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/cobol_course">cobol course</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Cobol.svg"/>
 		</div>
 	</td><td>
 		<br>
@@ -2002,6 +2142,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/go_course">go course</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/Houseki">Houseki</a>
 	</td><td>
 		<div align="left">
@@ -2027,6 +2176,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/nestjs_basic_jwt">nestjs basic jwt</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/nyquist_visualizer">nyquist visualizer</a>
 	</td><td>
 		<div align="left">
@@ -2045,15 +2203,6 @@ Python
 		<div align="left">
 			<img src="langs/Python.svg"/>
 		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/websecfr">websecfr</a>
-	</td><td>
-		<br>
 	</td><td>
 		<br>
 	</td>
@@ -2517,6 +2666,21 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/voxel_engine">voxel engine</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Numba.svg"/>
+			<img src="frames_and_libs/OpenGL.svg"/>
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/voxel_starfield">voxel starfield</a>
 	</td><td>
 		<div align="left">
@@ -2735,6 +2899,50 @@ Python
 <summary>Web</summary>
 <br>
 <details>
+<summary>Backend</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/nestjs_basic_auth">nestjs basic auth</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/TypeScript.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/NestJS.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/nestjs_basic_sessions">nestjs basic sessions</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/TypeScript.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/NestJS.svg"/>
+		</div>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+<details>
 <summary>Extensions</summary>
 <br>
 <table border=3 align="center">
@@ -2766,6 +2974,35 @@ Python
 	</td><td>
 		<div align="left">
 			<img src="langs/JavaScript.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+<details>
+<summary>API</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/rss_aggregator">rss aggregator</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
 		</div>
 	</td><td>
 		<br>
