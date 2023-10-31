@@ -765,6 +765,48 @@ Python
 
 
 <details>
+<summary>Bot</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/go-slack-bot-age-calulator">go-slack-bot-age-calulator</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/go-slack-bot-file">go-slack-bot-file</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+
+
+<details>
 <summary>CTF</summary>
 <br>
 <details>
@@ -795,9 +837,51 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/balsn_ctf_2023">balsn ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/BTLO_memory_analysis_Ransomware">BTLO memory analysis Ransomware</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/buckeye_ctf_2023">buckeye ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/chroot_labs">chroot labs</a>
 	</td><td>
 		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/cybergon_ctf_2023">cybergon ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
 	</td><td>
 		<br>
 	</td>
@@ -816,6 +900,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/dead_ctf_2023">dead ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/faust_ctf_2023">faust ctf 2023</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -924,7 +1019,40 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/sunshine_ctf_2023">sunshine ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/tenable_ctf_2023">tenable ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/uiu_ctf_2023">uiu ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/vsctf_2023">vsctf 2023</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -1896,6 +2024,18 @@ Python
 		<br>
 	</td>
 </tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/python_lib_c">python lib c</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
 </table>
 <br>
 </details>
@@ -2118,15 +2258,6 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/BTLO_memory_analysis_Ransomware">BTLO memory analysis Ransomware</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/C_learn">C learn</a>
 	</td><td>
 		<div align="left">
@@ -2173,24 +2304,6 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/go-basic-http">go-basic-http</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/go-book-api">go-book-api</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/Houseki">Houseki</a>
 	</td><td>
 		<div align="left">
@@ -2216,6 +2329,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/mojo-speedtest">mojo-speedtest</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/nestjs_basic_jwt">nestjs basic jwt</a>
 	</td><td>
 		<br>
@@ -2234,6 +2356,15 @@ Python
 		<div align="left">
 			<img src="frames_and_libs/Matplotlib.svg"/>
 		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/portfolio">portfolio</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
 	</td>
 </tr>
 <tr>
@@ -2836,6 +2967,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/pearson_dumper">pearson dumper</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/pip_upgrader">pip upgrader</a>
 	</td><td>
 		<div align="left">
@@ -2964,6 +3106,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/go-basic-http">go-basic-http</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/nestjs_basic_auth">nestjs basic auth</a>
 	</td><td>
 		<div align="left">
@@ -2986,6 +3139,57 @@ Python
 		<div align="left">
 			<img src="frames_and_libs/NestJS.svg"/>
 		</div>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+<details>
+<summary>API</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/go-book-api">go-book-api</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/go-movie-api">go-movie-api</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/rss_aggregator">rss aggregator</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<br>
 	</td>
 </tr>
 </table>
@@ -3023,35 +3227,6 @@ Python
 	</td><td>
 		<div align="left">
 			<img src="langs/JavaScript.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-</table>
-<br>
-</details>
-<details>
-<summary>API</summary>
-<br>
-<table border=3 align="center">
-<tr>
-	<td>
-		Name
-	</td>
-	<td>
-		Languages
-	</td>
-	<td>
-		Frameworks and Libraries
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/rss_aggregator">rss aggregator</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Go.svg"/>
 		</div>
 	</td><td>
 		<br>
