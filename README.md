@@ -2247,6 +2247,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/3D_number_renderer">3D number renderer</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/auto_hot_key_win">auto hot key win</a>
 	</td><td>
 		<div align="left">
@@ -2298,6 +2307,24 @@ Python
 		<div align="left">
 			<img src="langs/Python.svg"/>
 		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/go-rev-IDA">go-rev-IDA</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/hacklu_ctf_2023">hacklu ctf 2023</a>
+	</td><td>
+		<br>
 	</td><td>
 		<br>
 	</td>
@@ -2361,6 +2388,15 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/portfolio">portfolio</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ptr-quals_2023">ptr-quals 2023</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3107,6 +3143,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/go-basic-http">go-basic-http</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/go-fileserver">go-fileserver</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Go.svg"/>
