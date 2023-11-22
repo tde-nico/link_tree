@@ -153,6 +153,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/ft_malcolm">ft malcolm</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/ft_ping">ft ping</a>
 	</td><td>
 		<div align="left">
@@ -801,6 +812,17 @@ Python
 		<br>
 	</td>
 </tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/telegram_bot_sample">telegram bot sample</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
 </table>
 <br>
 </details>
@@ -932,6 +954,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/hacklu_ctf_2023">hacklu ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/hero_ctf_2023">hero ctf 2023</a>
 	</td><td>
 		<div align="left">
@@ -1010,6 +1043,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/ptr-quals_2023">ptr-quals 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/PWC_ctf">PWC ctf</a>
 	</td><td>
 		<br>
@@ -1020,6 +1064,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/sunshine_ctf_2023">sunshine ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/team-italy_ctf_2023">team-italy ctf 2023</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -1126,6 +1181,18 @@ Python
 		<div align="left">
 			<img src="frames_and_libs/Flask.svg"/>
 		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/go-rev-IDA">go-rev-IDA</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
 	</td>
 </tr>
 <tr>
@@ -2247,15 +2314,6 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/3D_number_renderer">3D number renderer</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/auto_hot_key_win">auto hot key win</a>
 	</td><td>
 		<div align="left">
@@ -2291,40 +2349,11 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/file_converter">file converter</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Python.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/game_server">game server</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
 		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/go-rev-IDA">go-rev-IDA</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/hacklu_ctf_2023">hacklu ctf 2023</a>
-	</td><td>
-		<br>
 	</td><td>
 		<br>
 	</td>
@@ -2356,7 +2385,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/mojo-speedtest">mojo-speedtest</a>
+		<a href="https://github.com/tde-nico/mojo_sorting_algorithms">mojo sorting algorithms</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -2365,7 +2394,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/nestjs_basic_jwt">nestjs basic jwt</a>
+		<a href="https://github.com/tde-nico/mojo-speedtest">mojo-speedtest</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -2390,35 +2419,6 @@ Python
 		<a href="https://github.com/tde-nico/portfolio">portfolio</a>
 	</td><td>
 		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/ptr-quals_2023">ptr-quals 2023</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/pygame_to_apk">pygame to apk</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/telegram_bot_sample">telegram bot sample</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Python.svg"/>
-		</div>
 	</td><td>
 		<br>
 	</td>
@@ -2479,6 +2479,20 @@ Python
 		</div>
 	</td><td>
 		<div align="left">
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/3D_number_renderer">3D number renderer</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/OpenGL.svg"/>
 			<img src="frames_and_libs/Pygame.svg"/>
 		</div>
 	</td>
@@ -2978,6 +2992,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/file_converter">file converter</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/kivymd_style">kivymd style</a>
 	</td><td>
 		<div align="left">
@@ -3015,6 +3040,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/pip_upgrader">pip upgrader</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/pygame_to_apk">pygame to apk</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -3165,6 +3201,19 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/nestjs_basic_auth">nestjs basic auth</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/TypeScript.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/NestJS.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/nestjs_basic_jwt">nestjs basic jwt</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/TypeScript.svg"/>
