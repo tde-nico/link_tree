@@ -899,6 +899,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/CSAW_ctf_quals-2023">CSAW ctf quals-2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/cybergon_ctf_2023">cybergon ctf 2023</a>
 	</td><td>
 		<div align="left">
@@ -1143,20 +1154,6 @@ Python
 	</td>
 	<td>
 		Frameworks and Libraries
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/caronte">caronte</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Go.svg"/>
-			<img src="langs/JavaScript.svg"/>
-		</div>
-	</td><td>
-		<div align="left">
-			<img src="frames_and_libs/React.svg"/>
-		</div>
 	</td>
 </tr>
 <tr>
@@ -2325,18 +2322,34 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/auto_hot_key_win">auto hot key win</a>
+		<a href="https://github.com/tde-nico/caronte">caronte</a>
 	</td><td>
-		<div align="left">
-			<img src="langs/Auto_Hot_Key.svg"/>
-		</div>
+		<br>
 	</td><td>
 		<br>
 	</td>
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/CSAW_ctf_quals-2023">CSAW ctf quals-2023</a>
+		<a href="https://github.com/tde-nico/CSAW_ctf_finals-2023">CSAW ctf finals-2023</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/go-sound_player">go-sound player</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/go-weather-tracker">go-weather-tracker</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -2388,20 +2401,70 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/nyquist_visualizer">nyquist visualizer</a>
+		<a href="https://github.com/tde-nico/portfolio">portfolio</a>
 	</td><td>
-		<div align="left">
-			<img src="langs/Python.svg"/>
-		</div>
+		<br>
 	</td><td>
-		<div align="left">
-			<img src="frames_and_libs/Matplotlib.svg"/>
-		</div>
+		<br>
 	</td>
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/portfolio">portfolio</a>
+		<a href="https://github.com/tde-nico/sdrlen_ctf_2023">sdrlen ctf 2023</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/tkinter_bmi">tkinter bmi</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/tkinter_calculator">tkinter calculator</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/tkinter_qr">tkinter qr</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/tkinter_snake">tkinter snake</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/tkinter_stock_market">tkinter stock market</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/tkinter_weather">tkinter weather</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -2929,6 +2992,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/auto_hot_key_win">auto hot key win</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Auto_Hot_Key.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/badge_generator">badge generator</a>
 	</td><td>
 		<div align="left">
@@ -3037,6 +3111,19 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/nyquist_visualizer">nyquist visualizer</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Matplotlib.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/pearson_dumper">pearson dumper</a>
 	</td><td>
 		<div align="left">
@@ -3095,6 +3182,50 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/temp_mail">temp mail</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/tkinter_image_editor">tkinter image editor</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/tkinter_maps">tkinter maps</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/tkinter_paint">tkinter paint</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/tkinter_timer">tkinter timer</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
