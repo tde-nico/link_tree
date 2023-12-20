@@ -3,6 +3,7 @@
 
 <!--
 #groups
+Tools
 
 #languages
 Python
@@ -943,6 +944,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/eks_cluster_games">eks cluster games</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/faust_ctf_2023">faust ctf 2023</a>
 	</td><td>
 		<div align="left">
@@ -1074,6 +1086,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/sdrlen_ctf_2023">sdrlen ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/sunshine_ctf_2023">sunshine ctf 2023</a>
 	</td><td>
 		<div align="left">
@@ -1097,6 +1120,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/tenable_ctf_2023">tenable ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/tuctf_2023">tuctf 2023</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -1889,6 +1923,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/tkinter_snake">tkinter snake</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/visual_novel">visual novel</a>
 	</td><td>
 		<div align="left">
@@ -2340,24 +2385,6 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/go-sound_player">go-sound player</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/go-weather-tracker">go-weather-tracker</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/Houseki">Houseki</a>
 	</td><td>
 		<div align="left">
@@ -2402,69 +2429,6 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/portfolio">portfolio</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/sdrlen_ctf_2023">sdrlen ctf 2023</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/tkinter_bmi">tkinter bmi</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/tkinter_calculator">tkinter calculator</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/tkinter_qr">tkinter qr</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/tkinter_snake">tkinter snake</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/tkinter_stock_market">tkinter stock market</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/tkinter_weather">tkinter weather</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3086,6 +3050,39 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/go-email_checker">go-email checker</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/go-sound_player">go-sound player</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/go-weather-tracker">go-weather-tracker</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/kivymd_style">kivymd style</a>
 	</td><td>
 		<div align="left">
@@ -3192,6 +3189,28 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/tkinter_bmi">tkinter bmi</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/tkinter_calculator">tkinter calculator</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/tkinter_image_editor">tkinter image editor</a>
 	</td><td>
 		<div align="left">
@@ -3225,7 +3244,40 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/tkinter_qr">tkinter qr</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/tkinter_stock_market">tkinter stock market</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/tkinter_timer">tkinter timer</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/tkinter_weather">tkinter weather</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>

@@ -218,7 +218,7 @@ def main(username, fname, columns, verbose):
 					del sections[sub]
 
 	tree = '# link_tree\n\n'
-	tree += "\n<!--\n#groups\n\n#languages\nPython\n\n#frames and libs\n\n-->\n\n\n"
+	tree += "\n<!--\n#groups\nTools\n\n#languages\nPython\n\n#frames and libs\n\n-->\n\n\n"
 	for section in sorted(sections.keys()):
 		if verbose:
 			print(f'[+] Generating {section} section')
