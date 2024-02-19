@@ -648,6 +648,20 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/Houseki">Houseki</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Kivy.svg"/>
+			<img src="frames_and_libs/KivyMD.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/sample_app_0">sample app 0</a>
 	</td><td>
 		<div align="left">
@@ -2096,6 +2110,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/cuda_raytracing_in_one_weekend">cuda raytracing in one weekend</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/cuda.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/HW2">HW2</a>
 	</td><td>
 		<div align="left">
@@ -2151,6 +2176,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/irc_serv">irc serv</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C++.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/roman_scraper">roman scraper</a>
 	</td><td>
 		<div align="left">
@@ -2160,6 +2196,17 @@ Python
 		<div align="left">
 			<img src="frames_and_libs/Selenium.svg"/>
 		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/sml_fumei">sml fumei</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/SML.svg"/>
+		</div>
+	</td><td>
+		<br>
 	</td>
 </tr>
 <tr>
@@ -2226,6 +2273,28 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/mojo_sorting_algorithms">mojo sorting algorithms</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Mojo.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/mojo-speedtest">mojo-speedtest</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Mojo.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/python_lib_c">python lib c</a>
 	</td><td>
 		<div align="left">
@@ -2266,6 +2335,15 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/CCNA_Labs">CCNA Labs</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ccnp_encor_slides">ccnp encor slides</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -2447,15 +2525,6 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/ccnp_encor_slides">ccnp encor slides</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/cp_templates">cp templates</a>
 	</td><td>
 		<br>
@@ -2465,48 +2534,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/cuda_raytracing_in_one_weekend">cuda raytracing in one weekend</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/Houseki">Houseki</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Python.svg"/>
-		</div>
-	</td><td>
-		<div align="left">
-			<img src="frames_and_libs/Kivy.svg"/>
-			<img src="frames_and_libs/KivyMD.svg"/>
-		</div>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/irc_serv">irc serv</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/mojo_sorting_algorithms">mojo sorting algorithms</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/mojo-speedtest">mojo-speedtest</a>
+		<a href="https://github.com/tde-nico/pkonv">pkonv</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -2524,7 +2552,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/sml_fumei">sml fumei</a>
+		<a href="https://github.com/tde-nico/wolfenstein-3d_py">wolfenstein-3d py</a>
 	</td><td>
 		<br>
 	</td><td>
