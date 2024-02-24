@@ -2543,15 +2543,6 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/portfolio">portfolio</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/wolfenstein-3d_py">wolfenstein-3d py</a>
 	</td><td>
 		<br>
@@ -3768,6 +3759,32 @@ Python
 </table>
 <br>
 </details>
+<table border=3 align="center">
+<tr>
+		<td>
+			Name
+		</td>
+		<td>
+			Languages
+		</td>
+		<td>
+			Frameworks and Libraries
+		</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/portfolio">portfolio</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/TypeScript.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/React.svg"/>
+		</div>
+	</td>
+</tr>
+</table>
 <br>
 </details>
 
