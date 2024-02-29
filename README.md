@@ -2052,6 +2052,20 @@ Python
 		</div>
 	</td>
 </tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/wolfenstein-3d_py">wolfenstein-3d py</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/OpenGL.svg"/>
+			<img src="frames_and_libs/Pygame.svg"/>
+		</div>
+	</td>
+</tr>
 </table>
 <br>
 </details>
@@ -2526,24 +2540,6 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/cp_templates">cp templates</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/pkonv">pkonv</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/wolfenstein-3d_py">wolfenstein-3d py</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3198,6 +3194,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/go-cron">go-cron</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/go-email_checker">go-email checker</a>
 	</td><td>
 		<div align="left">
@@ -3372,6 +3379,17 @@ Python
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/pkonv">pkonv</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
 		</div>
 	</td><td>
 		<br>
