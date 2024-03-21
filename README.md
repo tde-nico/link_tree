@@ -1013,6 +1013,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/glacier_ctf_2023">glacier ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/google_ctf_2023">google ctf 2023</a>
 	</td><td>
 		<div align="left">
@@ -1271,6 +1282,17 @@ Python
 		<div align="left">
 			<img src="frames_and_libs/React.svg"/>
 		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ctf-socat">ctf-socat</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<br>
 	</td>
 </tr>
 <tr>
@@ -2539,7 +2561,61 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/cp_templates">cp templates</a>
+		<a href="https://github.com/tde-nico/aoc-go-2023">aoc-go-2023</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/bits_ctf_2024">bits ctf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/go-telegram-bot_sample">go-telegram-bot sample</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/gold-ctf_2024">gold-ctf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/intigriti_ctf_2023">intigriti ctf 2023</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/multicore-samples">multicore-samples</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/openssl_course">openssl course</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3113,6 +3189,20 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/cp_templates">cp templates</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+			<img src="langs/C++.svg"/>
+			<img src="langs/Java.svg"/>
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/dotfiles">dotfiles</a>
 	</td><td>
 		<div align="left">
@@ -3239,6 +3329,39 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/go-HRMS">go-HRMS</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/go-jpg2avi">go-jpg2avi</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/go-png2jpg">go-png2jpg</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/go-ppm2png">go-ppm2png</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Go.svg"/>
