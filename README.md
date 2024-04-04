@@ -2570,7 +2570,61 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/bi0s_ctf_2024">bi0s ctf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/bits_ctf_2024">bits ctf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ebpf_day_cnit">ebpf day cnit</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ft_linear_regression">ft linear regression</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ft_ssl_md5">ft ssl md5</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ft_traceroute">ft traceroute</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/functional_and_imperative_programming_techniques">functional and imperative programming techniques</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -2597,7 +2651,52 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/insomnihack_teaser_ctf_2024">insomnihack teaser ctf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/intigriti_ctf_2023">intigriti ctf 2023</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/iris_ctf_2024">iris ctf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/lactf_2024">lactf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/libasm">libasm</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/meta_feb_flash_2024">meta feb flash 2024</a>
 	</td><td>
 		<br>
 	</td><td>
