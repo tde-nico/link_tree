@@ -907,6 +907,28 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/bi0s_ctf_2024">bi0s ctf 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/bits_ctf_2024">bits ctf 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/BTLO_memory_analysis_Ransomware">BTLO memory analysis Ransomware</a>
 	</td><td>
 		<br>
@@ -1024,6 +1046,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/gold-ctf_2024">gold-ctf 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/google_ctf_2023">google ctf 2023</a>
 	</td><td>
 		<div align="left">
@@ -1091,6 +1124,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/m0leCon_Teaser_2023">m0leCon Teaser 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/meta_feb_flash_2024">meta feb flash 2024</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -2570,16 +2614,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/bi0s_ctf_2024">bi0s ctf 2024</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/bits_ctf_2024">bits ctf 2024</a>
+		<a href="https://github.com/tde-nico/crackmes">crackmes</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -2642,15 +2677,6 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/gold-ctf_2024">gold-ctf 2024</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/insomnihack_teaser_ctf_2024">insomnihack teaser ctf 2024</a>
 	</td><td>
 		<br>
@@ -2696,7 +2722,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/meta_feb_flash_2024">meta feb flash 2024</a>
+		<a href="https://github.com/tde-nico/mini-web-servs">mini-web-servs</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -2715,6 +2741,15 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/openssl_course">openssl course</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/url_shortener_example">url shortener example</a>
 	</td><td>
 		<br>
 	</td><td>
