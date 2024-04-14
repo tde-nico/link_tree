@@ -187,6 +187,28 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/ft_ssl_md5">ft ssl md5</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ft_traceroute">ft traceroute</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/get_next_line">get next line</a>
 	</td><td>
 		<div align="left">
@@ -203,6 +225,18 @@ Python
 		<div align="left">
 			<img src="langs/Bash.svg"/>
 			<img src="langs/Docker.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/libasm">libasm</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Assembly.svg"/>
+			<img src="langs/C.svg"/>
 		</div>
 	</td><td>
 		<br>
@@ -1113,6 +1147,50 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/hsctf_2023">hsctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/insomnihack_teaser_ctf_2024">insomnihack teaser ctf 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/intigriti_ctf_2023">intigriti ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/iris_ctf_2024">iris ctf 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/lactf_2024">lactf 2024</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -2641,24 +2719,6 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/ft_ssl_md5">ft ssl md5</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/ft_traceroute">ft traceroute</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/functional_and_imperative_programming_techniques">functional and imperative programming techniques</a>
 	</td><td>
 		<br>
@@ -2669,51 +2729,6 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/go-telegram-bot_sample">go-telegram-bot sample</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/insomnihack_teaser_ctf_2024">insomnihack teaser ctf 2024</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/intigriti_ctf_2023">intigriti ctf 2023</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/iris_ctf_2024">iris ctf 2024</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/lactf_2024">lactf 2024</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/libasm">libasm</a>
 	</td><td>
 		<br>
 	</td><td>
