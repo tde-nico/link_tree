@@ -154,6 +154,21 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/ft_linear_regression">ft linear regression</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Matplotlib.svg"/>
+			<img src="frames_and_libs/Numpy.svg"/>
+			<img src="frames_and_libs/Pandas.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/ft_malcolm">ft malcolm</a>
 	</td><td>
 		<div align="left">
@@ -2367,6 +2382,18 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/multicore-samples">multicore-samples</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+			<img src="langs/cuda.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/roman_scraper">roman scraper</a>
 	</td><td>
 		<div align="left">
@@ -2469,6 +2496,15 @@ Python
 		<div align="left">
 			<img src="langs/Mojo.svg"/>
 		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/openssl_course">openssl course</a>
+	</td><td>
+		<br>
 	</td><td>
 		<br>
 	</td>
@@ -2732,7 +2768,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/ft_linear_regression">ft linear regression</a>
+		<a href="https://github.com/tde-nico/libgopy">libgopy</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -2742,24 +2778,6 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/mini-web-servs">mini-web-servs</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/multicore-samples">multicore-samples</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/openssl_course">openssl course</a>
 	</td><td>
 		<br>
 	</td><td>
