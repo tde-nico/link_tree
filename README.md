@@ -1283,6 +1283,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/perl_ctf_2024">perl ctf 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/ptr-quals_2023">ptr-quals 2023</a>
 	</td><td>
 		<div align="left">
@@ -2786,7 +2797,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/perl_ctf_2024">perl ctf 2024</a>
+		<a href="https://github.com/tde-nico/osu_ctf_2024">osu ctf 2024</a>
 	</td><td>
 		<br>
 	</td><td>
