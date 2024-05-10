@@ -14,400 +14,6 @@ Python
 
 
 <details>
-<summary>42</summary>
-<br>
-<table border=3 align="center">
-<tr>
-	<td>
-		Name
-	</td>
-	<td>
-		Languages
-	</td>
-	<td>
-		Frameworks and Libraries
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/42_common_core">42 common core</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/42_cursus">42 cursus</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/42_Exams">42 Exams</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/C.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/Boot2Root">Boot2Root</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Bash.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/Born2beroot">Born2beroot</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Bash.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/CPP">CPP</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/C++.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/cube3D">cube3D</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/C.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/DAAB_Piscine">DAAB Piscine</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Python.svg"/>
-		</div>
-	</td><td>
-		<div align="left">
-			<img src="frames_and_libs/Matplotlib.svg"/>
-			<img src="frames_and_libs/Numpy.svg"/>
-			<img src="frames_and_libs/Pandas.svg"/>
-			<img src="frames_and_libs/Scikit_Learn.svg"/>
-		</div>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/dr-quine">dr-quine</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Assembly.svg"/>
-			<img src="langs/C.svg"/>
-			<img src="langs/Python.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/ft_containers">ft containers</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/C++.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/ft_irc">ft irc</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/C++.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/ft_linear_regression">ft linear regression</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Python.svg"/>
-		</div>
-	</td><td>
-		<div align="left">
-			<img src="frames_and_libs/Matplotlib.svg"/>
-			<img src="frames_and_libs/Numpy.svg"/>
-			<img src="frames_and_libs/Pandas.svg"/>
-		</div>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/ft_malcolm">ft malcolm</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/C.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/ft_ping">ft ping</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/C.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/ft_printf">ft printf</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/C.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/ft_ssl_md5">ft ssl md5</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/C.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/ft_traceroute">ft traceroute</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/C.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/get_next_line">get next line</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/C.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/Inception">Inception</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Bash.svg"/>
-			<img src="langs/Docker.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/libasm">libasm</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Assembly.svg"/>
-			<img src="langs/C.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/Libft">Libft</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/C.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/minishell">minishell</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/C.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/minitalk">minitalk</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/C.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/net_practice">net practice</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/OverRide">OverRide</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Assembly.svg"/>
-			<img src="langs/C.svg"/>
-			<img src="langs/Python.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/philosophers">philosophers</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/C.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/Piscine">Piscine</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Bash.svg"/>
-			<img src="langs/C.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/push_swap">push swap</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/C.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/Rainfall">Rainfall</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Bash.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/Snow_Crash">Snow Crash</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Bash.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/so_long">so long</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/C.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/tinky-winkey">tinky-winkey</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/C.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/woody-woodpacker">woody-woodpacker</a>
-	</td><td>
-		<div align="left">
-			<img src="langs/Assembly.svg"/>
-			<img src="langs/C.svg"/>
-		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-</table>
-<br>
-</details>
-
-
-<details>
 <summary>AI</summary>
 <br>
 <details>
@@ -1018,6 +624,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/crackmes">crackmes</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/CSAW_ctf_finals-2023">CSAW ctf finals-2023</a>
 	</td><td>
 		<div align="left">
@@ -1275,6 +892,17 @@ Python
 	</td><td>
 		<div align="left">
 			<img src="langs/PHP.svg"/>
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/osu_ctf_2024">osu ctf 2024</a>
+	</td><td>
+		<div align="left">
 			<img src="langs/Python.svg"/>
 		</div>
 	</td><td>
@@ -2256,6 +1884,398 @@ Python
 <summary>Learning</summary>
 <br>
 <details>
+<summary>42</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/42_common_core">42 common core</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/42_cursus">42 cursus</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/42_Exams">42 Exams</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/Boot2Root">Boot2Root</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Bash.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/Born2beroot">Born2beroot</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Bash.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/CPP">CPP</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C++.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/cube3D">cube3D</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/DAAB_Piscine">DAAB Piscine</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Matplotlib.svg"/>
+			<img src="frames_and_libs/Numpy.svg"/>
+			<img src="frames_and_libs/Pandas.svg"/>
+			<img src="frames_and_libs/Scikit_Learn.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/dr-quine">dr-quine</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Assembly.svg"/>
+			<img src="langs/C.svg"/>
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ft_containers">ft containers</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C++.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ft_irc">ft irc</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C++.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ft_linear_regression">ft linear regression</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/Matplotlib.svg"/>
+			<img src="frames_and_libs/Numpy.svg"/>
+			<img src="frames_and_libs/Pandas.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ft_malcolm">ft malcolm</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ft_ping">ft ping</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ft_printf">ft printf</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ft_ssl_md5">ft ssl md5</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ft_traceroute">ft traceroute</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/get_next_line">get next line</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/Inception">Inception</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Bash.svg"/>
+			<img src="langs/Docker.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/libasm">libasm</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Assembly.svg"/>
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/Libft">Libft</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/minishell">minishell</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/minitalk">minitalk</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/net_practice">net practice</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/OverRide">OverRide</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Assembly.svg"/>
+			<img src="langs/C.svg"/>
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/philosophers">philosophers</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/Piscine">Piscine</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Bash.svg"/>
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/push_swap">push swap</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/Rainfall">Rainfall</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Bash.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/Snow_Crash">Snow Crash</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Bash.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/so_long">so long</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/tinky-winkey">tinky-winkey</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/woody-woodpacker">woody-woodpacker</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Assembly.svg"/>
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+<details>
 <summary>Sapienza</summary>
 <br>
 <table border=3 align="center">
@@ -2454,6 +2474,17 @@ Python
 	</td>
 	<td>
 		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/aoc-go-2023">aoc-go-2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<br>
 	</td>
 </tr>
 <tr>
@@ -2752,7 +2783,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/aoc-go-2023">aoc-go-2023</a>
+		<a href="https://github.com/tde-nico/cursed_ctf_2024">cursed ctf 2024</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -2761,7 +2792,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/crackmes">crackmes</a>
+		<a href="https://github.com/tde-nico/digital_systems">digital systems</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -2779,6 +2810,33 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/ft_ssl_des">ft ssl des</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/hs-hangman">hs-hangman</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/kalmar_ctf_2024">kalmar ctf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/libgopy">libgopy</a>
 	</td><td>
 		<br>
@@ -2788,16 +2846,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/mini-web-servs">mini-web-servs</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/osu_ctf_2024">osu ctf 2024</a>
+		<a href="https://github.com/tde-nico/portswigger">portswigger</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3955,6 +4004,17 @@ Python
 	</td><td>
 		<div align="left">
 			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/mini-web-servs">mini-web-servs</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Assembly.svg"/>
 		</div>
 	</td><td>
 		<br>
