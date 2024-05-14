@@ -2783,6 +2783,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/ccnp_labs">ccnp labs</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/cursed_ctf_2024">cursed ctf 2024</a>
 	</td><td>
 		<br>
