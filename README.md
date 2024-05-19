@@ -2783,6 +2783,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/amateurs-ctf-2024">amateurs-ctf-2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/ccnp_labs">ccnp labs</a>
 	</td><td>
 		<br>
@@ -2820,6 +2829,24 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/ft_ssl_des">ft ssl des</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/go-htmx-chat">go-htmx-chat</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/go-movie-htmx-example">go-movie-htmx-example</a>
 	</td><td>
 		<br>
 	</td><td>
