@@ -540,6 +540,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/amateurs-ctf-2024">amateurs-ctf-2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/Angstrom_2023">Angstrom 2023</a>
 	</td><td>
 		<div align="left">
@@ -647,6 +658,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/CSAW_ctf_quals-2023">CSAW ctf quals-2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/cursed_ctf_2024">cursed ctf 2024</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -833,6 +855,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/kalmar_ctf_2024">kalmar ctf 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/lactf_2024">lactf 2024</a>
 	</td><td>
 		<div align="left">
@@ -912,6 +945,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/perl_ctf_2024">perl ctf 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/portswigger">portswigger</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -2783,25 +2827,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/amateurs-ctf-2024">amateurs-ctf-2024</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/ccnp_labs">ccnp labs</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/cursed_ctf_2024">cursed ctf 2024</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -2864,25 +2890,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/kalmar_ctf_2024">kalmar ctf 2024</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/libgopy">libgopy</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/portswigger">portswigger</a>
 	</td><td>
 		<br>
 	</td><td>
