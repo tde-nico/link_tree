@@ -712,6 +712,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/defcon-quals-ctf-2024">defcon-quals-ctf-2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/eks_cluster_games">eks cluster games</a>
 	</td><td>
 		<div align="left">
@@ -925,6 +936,17 @@ Python
 	</td><td>
 		<div align="left">
 			<img src="langs/PHP.svg"/>
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/openECSC_ctf_round1_2024">openECSC ctf round1 2024</a>
+	</td><td>
+		<div align="left">
 			<img src="langs/Python.svg"/>
 		</div>
 	</td><td>
@@ -2482,6 +2504,18 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/security-homework">security-homework</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/sml_fumei">sml fumei</a>
 	</td><td>
 		<div align="left">
@@ -2827,6 +2861,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/aoc-mojo-2023">aoc-mojo-2023</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/ccnp_labs">ccnp labs</a>
 	</td><td>
 		<br>
@@ -2837,6 +2880,15 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/digital_systems">digital systems</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ebpf_book">ebpf book</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -2881,6 +2933,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/go-remote_login">go-remote login</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/hs-hangman">hs-hangman</a>
 	</td><td>
 		<br>
@@ -2891,6 +2952,15 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/libgopy">libgopy</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/mirea_ctf_2024">mirea ctf 2024</a>
 	</td><td>
 		<br>
 	</td><td>
