@@ -2870,6 +2870,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/aoc-rust-2023">aoc-rust-2023</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/ccnp_labs">ccnp labs</a>
 	</td><td>
 		<br>
@@ -2961,6 +2970,15 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/mirea_ctf_2024">mirea ctf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/penne_lecture_2024-04-29">penne lecture 2024-04-29</a>
 	</td><td>
 		<br>
 	</td><td>
