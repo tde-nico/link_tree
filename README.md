@@ -2567,6 +2567,28 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/aoc-mojo-2023">aoc-mojo-2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Mojo.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/aoc-rust-2023">aoc-rust-2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Rust.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/C_learn">C learn</a>
 	</td><td>
 		<div align="left">
@@ -2861,24 +2883,6 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/aoc-mojo-2023">aoc-mojo-2023</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/aoc-rust-2023">aoc-rust-2023</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/ccnp_labs">ccnp labs</a>
 	</td><td>
 		<br>
@@ -2942,6 +2946,24 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/go-proxy-example">go-proxy-example</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/go-ram-alert">go-ram-alert</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/go-remote_login">go-remote login</a>
 	</td><td>
 		<br>
@@ -2969,7 +2991,43 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/mini-container">mini-container</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/mini-container-extended">mini-container-extended</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/mirea_ctf_2024">mirea ctf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/nahamcon_ctf_2024">nahamcon ctf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/packet-dumper">packet-dumper</a>
 	</td><td>
 		<br>
 	</td><td>
