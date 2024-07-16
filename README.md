@@ -2402,6 +2402,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/digital_systems">digital systems</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/SystemVerilog.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/functional_and_imperative_programming_techniques">functional and imperative programming techniques</a>
 	</td><td>
 		<div align="left">
@@ -2604,6 +2615,26 @@ Python
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ccnp_labs">ccnp labs</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ebpf_book">ebpf book</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
 		</div>
 	</td><td>
 		<br>
@@ -2879,33 +2910,6 @@ Python
 	</td>
 	<td>
 		Frameworks and Libraries
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/ccnp_labs">ccnp labs</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/digital_systems">digital systems</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/ebpf_book">ebpf book</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
 	</td>
 </tr>
 <tr>
