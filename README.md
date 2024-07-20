@@ -910,6 +910,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/mirea_ctf_2024">mirea ctf 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/misfortune_ctf">misfortune ctf</a>
 	</td><td>
 		<div align="left">
@@ -922,6 +933,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/nahamcon_ctf_2023">nahamcon ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/nahamcon_ctf_2024">nahamcon ctf 2024</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -2642,6 +2664,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/ebpf_day_cnit">ebpf day cnit</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/go_course">go course</a>
 	</td><td>
 		<div align="left">
@@ -2914,15 +2947,6 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/ebpf_day_cnit">ebpf day cnit</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/ft_ssl_des">ft ssl des</a>
 	</td><td>
 		<br>
@@ -3005,24 +3029,6 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/mini-container-extended">mini-container-extended</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/mirea_ctf_2024">mirea ctf 2024</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/nahamcon_ctf_2024">nahamcon ctf 2024</a>
 	</td><td>
 		<br>
 	</td><td>
