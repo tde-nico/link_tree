@@ -2717,6 +2717,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/penne_lecture_2024-04-29">penne lecture 2024-04-29</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/python_lib_c">python lib c</a>
 	</td><td>
 		<div align="left">
@@ -3019,34 +3030,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/mini-container">mini-container</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/mini-container-extended">mini-container-extended</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/packet-dumper">packet-dumper</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/penne_lecture_2024-04-29">penne lecture 2024-04-29</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3898,6 +3882,28 @@ Python
 	</td><td>
 		<div align="left">
 			<img src="langs/Makefile.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/mini-container">mini-container</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/mini-container-extended">mini-container-extended</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
 		</div>
 	</td><td>
 		<br>
