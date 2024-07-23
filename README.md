@@ -2160,6 +2160,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/ft_ssl_des">ft ssl des</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/ft_ssl_md5">ft ssl md5</a>
 	</td><td>
 		<div align="left">
@@ -2954,33 +2965,6 @@ Python
 	</td>
 	<td>
 		Frameworks and Libraries
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/ft_ssl_des">ft ssl des</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/go-htmx-chat">go-htmx-chat</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/go-movie-htmx-example">go-movie-htmx-example</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
 	</td>
 </tr>
 <tr>
@@ -4370,6 +4354,32 @@ Python
 		<td>
 			Frameworks and Libraries
 		</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/go-htmx-chat">go-htmx-chat</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/htmx.svg"/>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/go-movie-htmx-example">go-movie-htmx-example</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<div align="left">
+			<img src="frames_and_libs/htmx.svg"/>
+		</div>
+	</td>
 </tr>
 <tr>
 	<td>
