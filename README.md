@@ -1207,11 +1207,44 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/go-ram-alert">go-ram-alert</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/go-remote_login">go-remote login</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/go-rev-IDA">go-rev-IDA</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Go.svg"/>
 			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/packet-dumper">packet-dumper</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
 		</div>
 	</td><td>
 		<br>
@@ -2978,24 +3011,6 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/go-ram-alert">go-ram-alert</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/go-remote_login">go-remote login</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/hs-hangman">hs-hangman</a>
 	</td><td>
 		<br>
@@ -3006,15 +3021,6 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/libgopy">libgopy</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/packet-dumper">packet-dumper</a>
 	</td><td>
 		<br>
 	</td><td>
