@@ -1207,6 +1207,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/go-proxy-example">go-proxy-example</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/go-ram-alert">go-ram-alert</a>
 	</td><td>
 		<div align="left">
@@ -1828,6 +1839,17 @@ Python
 		<div align="left">
 			<img src="frames_and_libs/Pygame.svg"/>
 		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/hs-hangman">hs-hangman</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Haskell.svg"/>
+		</div>
+	</td><td>
+		<br>
 	</td>
 </tr>
 <tr>
@@ -2893,6 +2915,40 @@ Python
 
 
 <details>
+<summary>Libraries</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/libgopy">libgopy</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+			<img src="langs/C++.svg"/>
+			<img src="langs/Go.svg"/>
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+
+
+<details>
 <summary>Misc</summary>
 <br>
 <table border=3 align="center">
@@ -2976,53 +3032,6 @@ Python
 			<img src="langs/Assembly.svg"/>
 			<img src="langs/C++.svg"/>
 		</div>
-	</td><td>
-		<br>
-	</td>
-</tr>
-</table>
-<br>
-</details>
-
-
-<details>
-<summary>Projects</summary>
-<br>
-<table border=3 align="center">
-<tr>
-	<td>
-		Name
-	</td>
-	<td>
-		Languages
-	</td>
-	<td>
-		Frameworks and Libraries
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/go-proxy-example">go-proxy-example</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/hs-hangman">hs-hangman</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/libgopy">libgopy</a>
-	</td><td>
-		<br>
 	</td><td>
 		<br>
 	</td>
