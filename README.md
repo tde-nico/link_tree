@@ -3042,6 +3042,44 @@ Python
 
 
 <details>
+<summary>Projects</summary>
+<br>
+<table border=3 align="center">
+<tr>
+	<td>
+		Name
+	</td>
+	<td>
+		Languages
+	</td>
+	<td>
+		Frameworks and Libraries
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/flare-on_10">flare-on 10</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/moca_ctf_quals_2024">moca ctf quals 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+</table>
+<br>
+</details>
+
+
+<details>
 <summary>Rendering</summary>
 <br>
 <table border=3 align="center">
