@@ -3074,6 +3074,42 @@ Python
 		<br>
 	</td>
 </tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/openECSC_ctf_round2_2024">openECSC ctf round2 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/team-italy_quals_2024">team-italy quals 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/v-notes_rest_api">v-notes rest api</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/v-xxd">v-xxd</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
 </table>
 <br>
 </details>
