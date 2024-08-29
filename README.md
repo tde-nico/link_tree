@@ -745,6 +745,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/flare-on_10">flare-on 10</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/glacier_ctf_2023">glacier ctf 2023</a>
 	</td><td>
 		<div align="left">
@@ -932,6 +943,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/moca_ctf_quals_2024">moca ctf quals 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/nahamcon_ctf_2023">nahamcon ctf 2023</a>
 	</td><td>
 		<div align="left">
@@ -967,6 +989,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/openECSC_ctf_round1_2024">openECSC ctf round1 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/openECSC_ctf_round2_2024">openECSC ctf round2 2024</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -3058,25 +3091,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/flare-on_10">flare-on 10</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/moca_ctf_quals_2024">moca ctf quals 2024</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/openECSC_ctf_round2_2024">openECSC ctf round2 2024</a>
+		<a href="https://github.com/tde-nico/rs-grep">rs-grep</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3095,6 +3110,15 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/v-notes_rest_api">v-notes rest api</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/v-simple-proxy">v-simple-proxy</a>
 	</td><td>
 		<br>
 	</td><td>
