@@ -3091,6 +3091,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/cyber-space_ctf_2024">cyber-space ctf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/rs-grep">rs-grep</a>
 	</td><td>
 		<br>
@@ -3110,24 +3119,6 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/v-notes_rest_api">v-notes rest api</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/v-simple-proxy">v-simple-proxy</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/v-xxd">v-xxd</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -4226,6 +4217,28 @@ Python
 	</td><td>
 		<div align="left">
 			<img src="langs/Go.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/v-simple-proxy">v-simple-proxy</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/v-xxd">v-xxd</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
 		</div>
 	</td><td>
 		<br>
