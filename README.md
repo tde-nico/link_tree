@@ -3113,7 +3113,43 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/blackhat_mea_ctf_2024">blackhat mea ctf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/defcon-finals-ctf-2024">defcon-finals-ctf-2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/idek_ctf_2024">idek ctf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/sekai_ctf_2024">sekai ctf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/sql-exercises">sql-exercises</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3155,7 +3191,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/3D_engine_with_reflexes">3D engine with reflexes</a>
+		<a href="https://github.com/tde-nico/3D_engine_with_reflections">3D engine with reflections</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
