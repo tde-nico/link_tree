@@ -606,6 +606,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/blackhat_mea_ctf_2024">blackhat mea ctf 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/BTLO_memory_analysis_Ransomware">BTLO memory analysis Ransomware</a>
 	</td><td>
 		<br>
@@ -713,6 +724,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/dead_ctf_2023">dead ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/defcon-finals-ctf-2024">defcon-finals-ctf-2024</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -845,6 +867,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/hsctf_2023">hsctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/idek_ctf_2024">idek ctf 2024</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -1086,6 +1119,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/sdrlen_ctf_2023">sdrlen ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/sekai_ctf_2024">sekai ctf 2024</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -2859,6 +2903,17 @@ Python
 		<br>
 	</td>
 </tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/sql-exercises">sql-exercises</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/SQL.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
 </table>
 <br>
 </details>
@@ -3113,7 +3168,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/blackhat_mea_ctf_2024">blackhat mea ctf 2024</a>
+		<a href="https://github.com/tde-nico/ghctf_2024">ghctf 2024</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3122,34 +3177,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/defcon-finals-ctf-2024">defcon-finals-ctf-2024</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/idek_ctf_2024">idek ctf 2024</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/sekai_ctf_2024">sekai ctf 2024</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/sql-exercises">sql-exercises</a>
+		<a href="https://github.com/tde-nico/urmia_ctf_2024">urmia ctf 2024</a>
 	</td><td>
 		<br>
 	</td><td>
