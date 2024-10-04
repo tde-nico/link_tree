@@ -789,6 +789,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/ghctf_2024">ghctf 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/glacier_ctf_2023">glacier ctf 2023</a>
 	</td><td>
 		<div align="left">
@@ -1196,6 +1207,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/uiu_ctf_2023">uiu ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/urmia_ctf_2024">urmia ctf 2024</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -3168,7 +3190,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/ghctf_2024">ghctf 2024</a>
+		<a href="https://github.com/tde-nico/m0leCon_Teaser_2024">m0leCon Teaser 2024</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3177,7 +3199,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/urmia_ctf_2024">urmia ctf 2024</a>
+		<a href="https://github.com/tde-nico/snake_ctf_2024">snake ctf 2024</a>
 	</td><td>
 		<br>
 	</td><td>
