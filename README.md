@@ -3190,6 +3190,24 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/leetcode">leetcode</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/leetcode_problem_dumper">leetcode problem dumper</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/m0leCon_Teaser_2024">m0leCon Teaser 2024</a>
 	</td><td>
 		<br>
