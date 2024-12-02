@@ -3190,6 +3190,24 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/4ts_ctf_2024">4ts ctf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/faust_ctf_2024">faust ctf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/leetcode">leetcode</a>
 	</td><td>
 		<br>
@@ -3209,6 +3227,15 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/m0leCon_Teaser_2024">m0leCon Teaser 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/security_in_software_applications">security in software applications</a>
 	</td><td>
 		<br>
 	</td><td>
