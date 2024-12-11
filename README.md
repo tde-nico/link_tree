@@ -540,6 +540,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/4ts_ctf_2024">4ts ctf 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/amateurs-ctf-2024">amateurs-ctf-2024</a>
 	</td><td>
 		<div align="left">
@@ -3190,7 +3201,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/4ts_ctf_2024">4ts ctf 2024</a>
+		<a href="https://github.com/tde-nico/bricks_ctf_finals_2024">bricks ctf finals 2024</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3226,7 +3237,25 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/libgopy2">libgopy2</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/m0leCon_Teaser_2024">m0leCon Teaser 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/n1_ctf_2024">n1 ctf 2024</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3245,6 +3274,15 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/snake_ctf_2024">snake ctf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/swerc_training_2024">swerc training 2024</a>
 	</td><td>
 		<br>
 	</td><td>
