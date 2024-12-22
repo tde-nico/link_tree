@@ -3219,6 +3219,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/lake_ctf_2024">lake ctf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/leetcode">leetcode</a>
 	</td><td>
 		<br>
@@ -3292,6 +3301,24 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/swerc_training_2024">swerc training 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/tqdm">tqdm</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/zig-simple_tcp_server">zig-simple tcp server</a>
 	</td><td>
 		<br>
 	</td><td>
