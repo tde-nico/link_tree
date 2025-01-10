@@ -3201,6 +3201,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/0ctf_2024">0ctf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/bricks_ctf_finals_2024">bricks ctf finals 2024</a>
 	</td><td>
 		<br>
@@ -3211,6 +3220,15 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/faust_ctf_2024">faust ctf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/htb_uni_ctf_2024">htb uni ctf 2024</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3292,6 +3310,15 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/snake_ctf_2024">snake ctf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/snake-ctf_finals_2024">snake-ctf finals 2024</a>
 	</td><td>
 		<br>
 	</td><td>
