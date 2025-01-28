@@ -3219,6 +3219,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/ctf-platform">ctf-platform</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/faust_ctf_2024">faust ctf 2024</a>
 	</td><td>
 		<br>
