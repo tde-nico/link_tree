@@ -3210,6 +3210,33 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/alpine_tutorial">alpine tutorial</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/alpine-js_htmx_simple_todo_app">alpine-js htmx simple todo app</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/balance_tracker">balance tracker</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/bricks_ctf_finals_2024">bricks ctf finals 2024</a>
 	</td><td>
 		<br>
