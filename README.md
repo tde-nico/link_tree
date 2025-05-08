@@ -1140,7 +1140,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/sdrlen_ctf_2023">sdrlen ctf 2023</a>
+		<a href="https://github.com/tde-nico/sekai_ctf_2024">sekai ctf 2024</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -1151,7 +1151,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/sekai_ctf_2024">sekai ctf 2024</a>
+		<a href="https://github.com/tde-nico/srdnlen_ctf_2023">srdnlen ctf 2023</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -3228,6 +3228,24 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/asis-ctf-24">asis-ctf-24</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/backdoor_ctf_24">backdoor ctf 24</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/balance_tracker">balance tracker</a>
 	</td><td>
 		<br>
@@ -3246,7 +3264,34 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/cses">cses</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/ctf-platform">ctf-platform</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/defcon-quals-ctf-2025">defcon-quals-ctf-2025</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/dotenv">dotenv</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3265,6 +3310,24 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/htb_uni_ctf_2024">htb uni ctf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/iris_ctf_25">iris ctf 25</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/kalmar-ctf-25">kalmar-ctf-25</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3309,6 +3372,24 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/linkedhashset">linkedhashset</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/log">log</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/m0leCon_Teaser_2024">m0leCon Teaser 2024</a>
 	</td><td>
 		<br>
@@ -3319,6 +3400,15 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/n1_ctf_2024">n1 ctf 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ntua-h4ck-ctf-24">ntua-h4ck-ctf-24</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3355,6 +3445,15 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/snake-ctf_finals_2024">snake-ctf finals 2024</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/srdnlen-ctf-2025">srdnlen-ctf-2025</a>
 	</td><td>
 		<br>
 	</td><td>
