@@ -3237,6 +3237,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/b01lers-ctf-25">b01lers-ctf-25</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/backdoor_ctf_24">backdoor ctf 24</a>
 	</td><td>
 		<br>
@@ -3291,6 +3300,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/dice-quals-ctf_25">dice-quals-ctf 25</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/dotenv">dotenv</a>
 	</td><td>
 		<br>
@@ -3318,6 +3336,24 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/ida-nop-plugin">ida-nop-plugin</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/insomnihack_finals_25">insomnihack finals 25</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/iris_ctf_25">iris ctf 25</a>
 	</td><td>
 		<br>
@@ -3328,6 +3364,15 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/kalmar-ctf-25">kalmar-ctf-25</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/kinda-sus_ctf_25">kinda-sus ctf 25</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3417,6 +3462,42 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/odin-proxy">odin-proxy</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/odin-task_scheduler">odin-task scheduler</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/odin-xxd">odin-xxd</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/plaid-ctf-25">plaid-ctf-25</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/port_forwarder">port forwarder</a>
 	</td><td>
 		<br>
@@ -3472,6 +3553,15 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/tqdm">tqdm</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/v-task_scheduler">v-task scheduler</a>
 	</td><td>
 		<br>
 	</td><td>
