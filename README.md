@@ -3453,6 +3453,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/nginx-service-routing">nginx-service-routing</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/ntua-h4ck-ctf-24">ntua-h4ck-ctf-24</a>
 	</td><td>
 		<br>
@@ -3553,6 +3562,15 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/tqdm">tqdm</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ulisse-ctf-25">ulisse-ctf-25</a>
 	</td><td>
 		<br>
 	</td><td>
