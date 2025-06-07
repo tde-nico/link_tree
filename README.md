@@ -540,6 +540,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/0ctf_2024">0ctf 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/4ts_ctf_2024">4ts ctf 2024</a>
 	</td><td>
 		<div align="left">
@@ -563,6 +574,28 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/Angstrom_2023">Angstrom 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/asis-ctf-24">asis-ctf-24</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/b01lers-ctf-25">b01lers-ctf-25</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -1020,6 +1053,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/n1_ctf_2024">n1 ctf 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/nahamcon_ctf_2023">nahamcon ctf 2023</a>
 	</td><td>
 		<div align="left">
@@ -1046,6 +1090,17 @@ Python
 	</td><td>
 		<div align="left">
 			<img src="langs/PHP.svg"/>
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ntua-h4ck-ctf-24">ntua-h4ck-ctf-24</a>
+	</td><td>
+		<div align="left">
 			<img src="langs/Python.svg"/>
 		</div>
 	</td><td>
@@ -1088,6 +1143,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/perl_ctf_2024">perl ctf 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/plaid-ctf-25">plaid-ctf-25</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -1218,6 +1284,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/uiu_ctf_2023">uiu ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/ulisse-ctf-25">ulisse-ctf-25</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -3201,15 +3278,6 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/0ctf_2024">0ctf 2024</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/alpine_tutorial">alpine tutorial</a>
 	</td><td>
 		<br>
@@ -3220,24 +3288,6 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/alpine-js_htmx_simple_todo_app">alpine-js htmx simple todo app</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/asis-ctf-24">asis-ctf-24</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/b01lers-ctf-25">b01lers-ctf-25</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3444,25 +3494,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/n1_ctf_2024">n1 ctf 2024</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/nginx-service-routing">nginx-service-routing</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/ntua-h4ck-ctf-24">ntua-h4ck-ctf-24</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3490,15 +3522,6 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/odin-xxd">odin-xxd</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/plaid-ctf-25">plaid-ctf-25</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3570,7 +3593,16 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/ulisse-ctf-25">ulisse-ctf-25</a>
+		<a href="https://github.com/tde-nico/umd-ctf_2025">umd-ctf 2025</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/uni-vs-threats-ctf-25">uni-vs-threats-ctf-25</a>
 	</td><td>
 		<br>
 	</td><td>
