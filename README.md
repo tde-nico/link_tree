@@ -617,6 +617,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/backdoor_ctf_24">backdoor ctf 24</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/balsn_ctf_2023">balsn ctf 2023</a>
 	</td><td>
 		<div align="left">
@@ -651,6 +662,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/blackhat_mea_ctf_2024">blackhat mea ctf 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/bricks_ctf_finals_2024">bricks ctf finals 2024</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -790,6 +812,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/defcon-quals-ctf-2024">defcon-quals-ctf-2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/dice-quals-ctf_25">dice-quals-ctf 25</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -1217,7 +1250,40 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/snake_ctf_2024">snake ctf 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/snake-ctf_finals_2024">snake-ctf finals 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/srdnlen_ctf_2023">srdnlen ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/srdnlen-ctf-2025">srdnlen-ctf-2025</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -1295,6 +1361,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/ulisse-ctf-25">ulisse-ctf-25</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/uni-vs-threats-ctf-25">uni-vs-threats-ctf-25</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -3296,25 +3373,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/backdoor_ctf_24">backdoor ctf 24</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/balance_tracker">balance tracker</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/bricks_ctf_finals_2024">bricks ctf finals 2024</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3342,15 +3401,6 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/defcon-quals-ctf-2025">defcon-quals-ctf-2025</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/dice-quals-ctf_25">dice-quals-ctf 25</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3548,33 +3598,6 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/snake_ctf_2024">snake ctf 2024</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/snake-ctf_finals_2024">snake-ctf finals 2024</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/srdnlen-ctf-2025">srdnlen-ctf-2025</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/swerc_training_2024">swerc training 2024</a>
 	</td><td>
 		<br>
@@ -3594,15 +3617,6 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/umd-ctf_2025">umd-ctf 2025</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/uni-vs-threats-ctf-25">uni-vs-threats-ctf-25</a>
 	</td><td>
 		<br>
 	</td><td>
