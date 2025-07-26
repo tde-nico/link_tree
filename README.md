@@ -1009,7 +1009,40 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/iris_ctf_25">iris ctf 25</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/kalmar_ctf_2024">kalmar ctf 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/kalmar-ctf-25">kalmar-ctf-25</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/kinda-sus_ctf_25">kinda-sus ctf 25</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -1031,7 +1064,29 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/lake_ctf_2024">lake ctf 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/m0leCon_Teaser_2023">m0leCon Teaser 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/m0leCon_Teaser_2024">m0leCon Teaser 2024</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -1361,6 +1416,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/ulisse-ctf-25">ulisse-ctf-25</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/umd-ctf_2025">umd-ctf 2025</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -3427,6 +3493,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/gpu-lecture">gpu-lecture</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/htb_uni_ctf_2024">htb uni ctf 2024</a>
 	</td><td>
 		<br>
@@ -3454,34 +3529,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/iris_ctf_25">iris ctf 25</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/kalmar-ctf-25">kalmar-ctf-25</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/kinda-sus_ctf_25">kinda-sus ctf 25</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/lake_ctf_2024">lake ctf 2024</a>
+		<a href="https://github.com/tde-nico/kathara-labs">kathara-labs</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3535,7 +3583,34 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/m0leCon_Teaser_2024">m0leCon Teaser 2024</a>
+		<a href="https://github.com/tde-nico/malta-ctf-quals-25">malta-ctf-quals-25</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/midnightsun-finals-ctf-25">midnightsun-finals-ctf-25</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/midnightsun-quals-ctf-25">midnightsun-quals-ctf-25</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/mini-quantum-lib">mini-quantum-lib</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3589,6 +3664,24 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/rev-hooks">rev-hooks</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/sas-ctf-25">sas-ctf-25</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/security_in_software_applications">security in software applications</a>
 	</td><td>
 		<br>
@@ -3608,15 +3701,6 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/tqdm">tqdm</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/umd-ctf_2025">umd-ctf 2025</a>
 	</td><td>
 		<br>
 	</td><td>
