@@ -3306,6 +3306,18 @@ Python
 		<br>
 	</td>
 </tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/libgopy2">libgopy2</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Go.svg"/>
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
 </table>
 <br>
 </details>
@@ -3538,6 +3550,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/l3ak-ctf-25">l3ak-ctf-25</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/leetcode">leetcode</a>
 	</td><td>
 		<br>
@@ -3548,15 +3569,6 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/leetcode_problem_dumper">leetcode problem dumper</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/libgopy2">libgopy2</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3700,7 +3712,25 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/team-italy_quals_2025">team-italy quals 2025</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/tqdm">tqdm</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/uiu-ctf-25">uiu-ctf-25</a>
 	</td><td>
 		<br>
 	</td><td>
