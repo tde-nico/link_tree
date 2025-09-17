@@ -3478,6 +3478,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/defcon-finals-ctf-2025">defcon-finals-ctf-2025</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/defcon-quals-ctf-2025">defcon-quals-ctf-2025</a>
 	</td><td>
 		<br>
@@ -3695,6 +3704,15 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/security_in_software_applications">security in software applications</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/sekai-ctf-25">sekai-ctf-25</a>
 	</td><td>
 		<br>
 	</td><td>
