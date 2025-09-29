@@ -3460,6 +3460,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/cor-ctf-25">cor-ctf-25</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/cses">cses</a>
 	</td><td>
 		<br>
@@ -3713,6 +3722,15 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/sekai-ctf-25">sekai-ctf-25</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/snake_ctf_2025">snake ctf 2025</a>
 	</td><td>
 		<br>
 	</td><td>
