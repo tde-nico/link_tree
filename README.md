@@ -712,6 +712,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/cor-ctf-25">cor-ctf-25</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/crackmes">crackmes</a>
 	</td><td>
 		<div align="left">
@@ -811,7 +822,29 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/defcon-finals-ctf-2025">defcon-finals-ctf-2025</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/defcon-quals-ctf-2024">defcon-quals-ctf-2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/defcon-quals-ctf-2025">defcon-quals-ctf-2025</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -2930,6 +2963,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/kathara-labs">kathara-labs</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/multicore-samples">multicore-samples</a>
 	</td><td>
 		<div align="left">
@@ -3433,34 +3475,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/alpine_tutorial">alpine tutorial</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/alpine-js_htmx_simple_todo_app">alpine-js htmx simple todo app</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/balance_tracker">balance tracker</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/cor-ctf-25">cor-ctf-25</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3479,24 +3494,6 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/ctf-platform">ctf-platform</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/defcon-finals-ctf-2025">defcon-finals-ctf-2025</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/defcon-quals-ctf-2025">defcon-quals-ctf-2025</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3551,15 +3548,6 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/insomnihack_finals_25">insomnihack finals 25</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/kathara-labs">kathara-labs</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -5168,6 +5156,24 @@ Python
 		<td>
 			Frameworks and Libraries
 		</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/alpine-js_htmx_simple_todo_app">alpine-js htmx simple todo app</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/alpine_tutorial">alpine tutorial</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
 </tr>
 <tr>
 	<td>
