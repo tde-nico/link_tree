@@ -888,6 +888,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/faust_ctf_2024">faust ctf 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/flare-on_10">flare-on 10</a>
 	</td><td>
 		<div align="left">
@@ -988,6 +999,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/hsctf_2023">hsctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/htb_uni_ctf_2024">htb uni ctf 2024</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -1338,7 +1360,29 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/sekai-ctf-25">sekai-ctf-25</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/snake_ctf_2024">snake ctf 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/snake_ctf_2025">snake ctf 2025</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -1415,6 +1459,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/team-italy_quals_2025">team-italy quals 2025</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/tenable_ctf_2023">tenable ctf 2023</a>
 	</td><td>
 		<div align="left">
@@ -1438,6 +1493,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/uiu_ctf_2023">uiu ctf 2023</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/uiu-ctf-25">uiu-ctf-25</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -3511,25 +3577,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/faust_ctf_2024">faust ctf 2024</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/gpu-lecture">gpu-lecture</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/htb_uni_ctf_2024">htb uni ctf 2024</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3709,24 +3757,6 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/sekai-ctf-25">sekai-ctf-25</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/snake_ctf_2025">snake ctf 2025</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/swerc_training_2024">swerc training 2024</a>
 	</td><td>
 		<br>
@@ -3736,25 +3766,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/team-italy_quals_2025">team-italy quals 2025</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/tqdm">tqdm</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/uiu-ctf-25">uiu-ctf-25</a>
 	</td><td>
 		<br>
 	</td><td>
