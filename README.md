@@ -1703,6 +1703,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/ida-nop-plugin">ida-nop-plugin</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/packet-dumper">packet-dumper</a>
 	</td><td>
 		<div align="left">
@@ -1735,6 +1746,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/race_condition_exploit">race condition exploit</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/rev-hooks">rev-hooks</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/C.svg"/>
@@ -3063,6 +3085,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/security_in_software_applications">security in software applications</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/C.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/security-homework">security-homework</a>
 	</td><td>
 		<div align="left">
@@ -3541,6 +3574,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/aoc-zig-2025">aoc-zig-2025</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/balance_tracker">balance tracker</a>
 	</td><td>
 		<br>
@@ -3568,6 +3610,24 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/defcamp-ctf-finals-25">defcamp-ctf-finals-25</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/defcamp-retro-dojo-ctf-25">defcamp-retro-dojo-ctf-25</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/dotenv">dotenv</a>
 	</td><td>
 		<br>
@@ -3586,7 +3646,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/ida-nop-plugin">ida-nop-plugin</a>
+		<a href="https://github.com/tde-nico/hacklu_ctf_25">hacklu ctf 25</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3641,6 +3701,15 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/log">log</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/m0leCon_Teaser_2026">m0leCon Teaser 2026</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3730,15 +3799,6 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/rev-hooks">rev-hooks</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/sas-ctf-25">sas-ctf-25</a>
 	</td><td>
 		<br>
@@ -3748,7 +3808,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/security_in_software_applications">security in software applications</a>
+		<a href="https://github.com/tde-nico/srdnlen-ctf-finals-25">srdnlen-ctf-finals-25</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3776,6 +3836,15 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/v-task_scheduler">v-task scheduler</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/xchg-rax-rax">xchg-rax-rax</a>
 	</td><td>
 		<br>
 	</td><td>
