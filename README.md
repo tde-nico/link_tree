@@ -811,6 +811,28 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/defcamp-ctf-finals-25">defcamp-ctf-finals-25</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/defcamp-retro-dojo-ctf-25">defcamp-retro-dojo-ctf-25</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/defcon-finals-ctf-2024">defcon-finals-ctf-2024</a>
 	</td><td>
 		<div align="left">
@@ -976,6 +998,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/hacklu_ctf_25">hacklu ctf 25</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/hero_ctf_2023">hero ctf 2023</a>
 	</td><td>
 		<div align="left">
@@ -1021,6 +1054,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/idek_ctf_2024">idek ctf 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/insomnihack_finals_25">insomnihack finals 25</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -1108,6 +1152,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/l3ak-ctf-25">l3ak-ctf-25</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/lactf_2024">lactf 2024</a>
 	</td><td>
 		<div align="left">
@@ -1152,7 +1207,40 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/malta-ctf-quals-25">malta-ctf-quals-25</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/meta_feb_flash_2024">meta feb flash 2024</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/midnightsun-finals-ctf-25">midnightsun-finals-ctf-25</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/midnightsun-quals-ctf-25">midnightsun-quals-ctf-25</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -1349,6 +1437,17 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/sas-ctf-25">sas-ctf-25</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/sekai_ctf_2024">sekai ctf 2024</a>
 	</td><td>
 		<div align="left">
@@ -1416,6 +1515,17 @@ Python
 <tr>
 	<td>
 		<a href="https://github.com/tde-nico/srdnlen-ctf-2025">srdnlen-ctf-2025</a>
+	</td><td>
+		<div align="left">
+			<img src="langs/Python.svg"/>
+		</div>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="https://github.com/tde-nico/srdnlen-ctf-finals-25">srdnlen-ctf-finals-25</a>
 	</td><td>
 		<div align="left">
 			<img src="langs/Python.svg"/>
@@ -3610,7 +3720,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/defcamp-ctf-finals-25">defcamp-ctf-finals-25</a>
+		<a href="https://github.com/tde-nico/cyberchallenge-cdp-25">cyberchallenge-cdp-25</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3619,7 +3729,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/defcamp-retro-dojo-ctf-25">defcamp-retro-dojo-ctf-25</a>
+		<a href="https://github.com/tde-nico/cyberchallenge-smd-25">cyberchallenge-smd-25</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3646,7 +3756,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/hacklu_ctf_25">hacklu ctf 25</a>
+		<a href="https://github.com/tde-nico/hkcert-ctf-25">hkcert-ctf-25</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3655,16 +3765,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/insomnihack_finals_25">insomnihack finals 25</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/l3ak-ctf-25">l3ak-ctf-25</a>
+		<a href="https://github.com/tde-nico/lake-ctf-25">lake-ctf-25</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3718,33 +3819,6 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/malta-ctf-quals-25">malta-ctf-quals-25</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/midnightsun-finals-ctf-25">midnightsun-finals-ctf-25</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
-		<a href="https://github.com/tde-nico/midnightsun-quals-ctf-25">midnightsun-quals-ctf-25</a>
-	</td><td>
-		<br>
-	</td><td>
-		<br>
-	</td>
-</tr>
-<tr>
-	<td>
 		<a href="https://github.com/tde-nico/mini-quantum-lib">mini-quantum-lib</a>
 	</td><td>
 		<br>
@@ -3790,6 +3864,15 @@ Python
 </tr>
 <tr>
 	<td>
+		<a href="https://github.com/tde-nico/openECSC_ctf_2025">openECSC ctf 2025</a>
+	</td><td>
+		<br>
+	</td><td>
+		<br>
+	</td>
+</tr>
+<tr>
+	<td>
 		<a href="https://github.com/tde-nico/port_forwarder">port forwarder</a>
 	</td><td>
 		<br>
@@ -3799,7 +3882,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/sas-ctf-25">sas-ctf-25</a>
+		<a href="https://github.com/tde-nico/snake-ctf-finals-25">snake-ctf-finals-25</a>
 	</td><td>
 		<br>
 	</td><td>
@@ -3808,7 +3891,7 @@ Python
 </tr>
 <tr>
 	<td>
-		<a href="https://github.com/tde-nico/srdnlen-ctf-finals-25">srdnlen-ctf-finals-25</a>
+		<a href="https://github.com/tde-nico/snake-rw-ctf-finals-25">snake-rw-ctf-finals-25</a>
 	</td><td>
 		<br>
 	</td><td>
